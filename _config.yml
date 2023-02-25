@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Li Ai / Site Title"
 title_separator          : "-"
 name                     : &name "Li Ai"
 description              : &description "personal description"
