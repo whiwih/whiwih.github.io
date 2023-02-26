@@ -13,5 +13,6 @@ University of South Carolina
    * *2019 Fall: ECIV-327 Reinforced Concrete Design*
 
 Stevens Institute of Technology
+-----
 * Teaching assistant
    * *2016 Fall: CE-519 Advanced Structure Analysis*
