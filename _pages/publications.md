@@ -1,11 +1,8 @@
 ---
-layout: single
-title: "Publications-test"
-permalink: /publications-test/
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=5v-mgPgAAAAJ&hl=en)"
+permalink: /publications/
 author_profile: true
 ---
-
-For the full list of academic publications, see my [CV](Li Ai-CV.pdf).
 
 **The data and codes which are not publicly releaased might be available upon request.**
 
