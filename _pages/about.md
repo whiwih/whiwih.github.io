@@ -16,5 +16,19 @@ I am a Postdoctoral Fellow  at the [University of South Carolina](https://sc.edu
 
 Research interests 
 ======
-My research interests include nondestructive testing (NDT) and structural health monitoring (SHM) based on acoustic emission (AE) sensing technology and signal processing, artificial intelligence techniques, cyber-physical systems, and digital twins. My recent work includes: (1) AE source localization using deep learning; (2) Transfer learning framework combining finite element simulation and domain adaptation; (3) Real-time AE monitoring system for alkali-silicate reaction (ASR) damage in concrete; (4) AE monitoring method applied to stress corrosion cracking in nuclear spent fuel storage systems; (5) Low-velocity impact monitoring framework for urban air mobility; (6) Digital twin for concrete bridges.
+My research interests include:
+- Nondestructive testing (NDT)
+- Structural health monitoring (SHM)
+- Acoustic emission (AE) 
+- Artificial intelligence
+- Cyber-physical systems
+- Digital twins. 
+
+My recent work includes: 
+- AE source localization using deep learning 
+- Transfer learning framework combining finite element simulation and domain adaptation
+- Real-time AE monitoring system for alkali-silicate reaction (ASR) damage in concrete
+- AE monitoring method applied to stress corrosion cracking in nuclear spent fuel storage systems
+- Low-velocity impact monitoring framework for urban air mobility
+- Digital twin for concrete bridges.
 
