@@ -15,7 +15,7 @@ Hey, there! I am a Postdoctoral Fellow  at the [University of South Carolina](ht
 
 
 Research interests 
-======
+------
 My research interests include:
 - Nondestructive testing (NDT)
 - Structural health monitoring (SHM)
