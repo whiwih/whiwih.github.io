@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the full content of my CV, see the [attachment](Li Ai-CV.pdf).
+For the full content of my CV, see the [attachment](https://liaiusc.github.io/files/Li Ai-CV.pdf).
 
 Education
 ======
