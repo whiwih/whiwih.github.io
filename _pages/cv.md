@@ -22,7 +22,7 @@ Employment History
 ======
 * Postdoctoral Fellow, University of South Carolina, September 2021 - Present 
 * Graduate Research Assistant, University of South Carolina, January 2017 - August 2021 
-* Research Teaching Assistant at University of Michigan, August 2016 - December 2016 
+* Research Teaching Assistant, Stevens Institute of Technology, August 2016 - December 2016 
 
   
 Professional Services 
