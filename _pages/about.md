@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Fellow  at the [University of South Carolina](https://sc.edu/). I graduated from University of South Carolina (2021) with a PhD in Civil Engineering under the supervision of [Dr. Paul Ziehl](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/ziehl_paul.php). Prior to joining the University of South Carolina, I received my Master's degree in Civil Engineering from [Stevens Institute of Technology](https://www.stevens.edu/) under the supervision of [Dr. Marcus Rutner](https://www.tuhh.de/mvb/institute/team/prof-dr-marcus-rutner-institutsleiter.html) and [Dr. Sohphia Hassiotis](https://www.stevens.edu/news/stevens-community-celebrates-and-remembers-professor-sophia-hassiotis).
+Hey, there! I am a Postdoctoral Fellow  at the [University of South Carolina](https://sc.edu/). I graduated from University of South Carolina (2021) with a PhD in Civil Engineering under the supervision of [Dr. Paul Ziehl](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/ziehl_paul.php). Prior to joining the University of South Carolina, I received my Master's degree in Civil Engineering from [Stevens Institute of Technology](https://www.stevens.edu/) under the supervision of [Dr. Marcus Rutner](https://www.tuhh.de/mvb/institute/team/prof-dr-marcus-rutner-institutsleiter.html) and [Dr. Sohphia Hassiotis](https://www.stevens.edu/news/stevens-community-celebrates-and-remembers-professor-sophia-hassiotis).
 
 
 
