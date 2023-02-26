@@ -7,16 +7,14 @@ author_profile: true
 **The data and codes which are not publicly releaased might be available upon request.**
 
 
-In prepration (papers with substantial contribution)
+In prepration
 ------
 
-1. **Farahi, A.**, Mulroy, S., Evrard, A.E., Smith, G., et al.; *LoCuSS: The first measurment of gas and stellar property covariance*, TBD, in preperation. [TBD](TBD)
+1. **L Ai**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Rehabilitation of Timber Piles Using FRP: A Study of Acoustic Emission Characteristics Under Uniaxial Compression*, TBD, in preperation. [TBD](TBD)
 
-1. Mulroy, S., **Farahi, A.**, Evrard, A.E., Smith, G., et al.; *LoCuSS: Galaxy Cluster Scaling Relations*, TBD, in preperation. [TBD](TBD)
+1. **L Ai**; S Flowers; P Ziehl. *Acoustic Emission and Regression Model-Based Detection and Localization of Low-Velocity Impacts in Thermoplastic Aircraft Components*, TBD, in preperation. [TBD](TBD)
 
-1. **Farahi, A.**, et al.; *Astronomers' and Physicists' Attitudes Towards Education & Public Outreach: A Case Study with The Dark Energy Survey*, TBD, in preperation.
-
-Submitted
+Under review
 ------
 
 1. Mayers, J., Romer, K., **Farahi, A.**, et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards a new method to estimate black hole mass from short exposure X-ray observations*, MNRAS, submitted. [ADS](http://adsabs.harvard.edu/abs/2018arXiv180306891M)
@@ -28,14 +26,6 @@ Submitted
 1. DES Collaboration (including **Farahi, Arya**); *The Dark Energy Survey Data Release 1*, The Astrophysical Journal, [link](https://www.darkenergysurvey.org/wp-content/uploads/2018/01/DR1Release.pdf).
 
 1. **Farahi, A.** et al.; *Localized massive halo properties in BAHAMAS and MACSIS simulations: scalings, log-normality, and covariance*, Monthly Notices of the Royal Astronomical Society, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171104922F)
-
-Accepted
-------
-
-1. **Farahi, A.** et al.; *The XXL Survey. XXIII. The Mass Scale of XXL Clusters from Ensemble Spectroscopy*, Astronomy and Astrophysics, Accepted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171107066F)
-
-1. Valotti, A.; Pierre, M.; **Farahi, A.**; Evrard, A.; Faccioli, L.; Sauvageot, J.-L.; Clerc, N.; Pacaud, F.; *The cosmological analysis of X-ray cluster surveys: IV. Testing ASpiX with template-based cosmological simulations*, Astronomy and Astrophysics, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171001569V)
-
 
 Refereed Journal Publications 
 ------
