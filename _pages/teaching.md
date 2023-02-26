@@ -8,7 +8,7 @@ author_profile: true
 University of South carolina
 ======
    * Teaching assistant
-    * *2021 Fall: ECIV-327 Reinforced Concrete Design
+    * *2021 Fall: ECIV-327 Reinforced Concrete Desig
     * *2021 Spring: ECIV-320 Structural Mechanics
     * *2019 Fall: ECIV-327 Reinforced Concrete Design
 
