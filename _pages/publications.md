@@ -30,37 +30,23 @@ Under review
 Refereed Journal Publications 
 ------
 
-1. Pierre, M. et al. (including **Farahi, Arya**); *The XXL survey: First results and future*, Astronomische Nachrichten, 2017. [ADS](http://adsabs.harvard.edu/abs/2017AN....338..334P)
+1. **L Ai**; B Zhang; P Ziehl. *A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*, Mechanical Systems and Signal Processing. 2023. Vol.192:110216. [DOI](https://doi.org/10.1016/j.ymssp.2023.110216) 
 
+1. **L Ai**; M Bayat*; P Ziehl. *Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*, Measurement. 2023. Vol.211:112695. [DOI](TBD) 
 
-1. **Farahi, Arya**; Evrard, August E.; Rozo, Eduardo; Rykoff, Eli S.; Wechsler, Risa H.; *Galaxy cluster mass estimation from stacked spectroscopic analysis*, Monthly Notices of the Royal Astronomical Society, 2016. [ADS](http://adsabs.harvard.edu/abs/2016MNRAS.460.3900F)  
+1. Laxman K C; N Tabassum; **L Ai***; C Cole; P Ziehl. *Automated Crack Detection and Crack Depth Prediction for Reinforced Concrete Structures using Deep Learning*, Construction and Building Materials. 2023. Vol.370:130709. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.130709) 
 
+1. Laxman K C; A Ross; **L Ai***; A Henderson; E Elbatanouny; M Bayat; P Ziehl. *Determination of Vehicle Loads on Bridges by Acoustic Emission and an Improved Ensembled Artificial Neural Network*, Construction and Building Materials. 2023. Vol.364:129844. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129844) 
 
-1. **A. Farahi**, A. E. Evrard, E. Rozo, E. S. Rykoff, R. H.Wechsler, *Galaxy cluster mass estimation
-from stacked spectroscopic analysis*, Monthly Notices of the Royal Astronomical Society 460,
-3900 (2016). [ADS](http://adsabs.harvard.edu/abs/2016A&A...592A...1P)  
+1. **L Ai**; V Soltangharaei; P Ziehl. *Developing a Heterogeneous Ensemble Learning Framework to Evaluate Alkali-silica Reaction Damage in Concrete using Acoustic Emission Signals*, Mechanical Systems and Signal Processing. 2022. Vol.172:108981. [DOI](https://doi.org/10.1016/j.ymssp.2022.108981) 
 
+1. **L Ai**; V Soltangharaei; P Ziehl. *Evaluation of ASR in Concrete Using Acoustic Emission and deep learning*, Nuclear Engineering and Design. 2021. Vol.380:111328. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111328)
 
-1. D. Arean, **A. Farahi**, L. A. Pando Zayas, I. Salazar Landea, A. Scardicchio, *Holographic
-p-wave superconductor with disorder*, Journal of High Energy Physics 2015, 46 (2015). [ADS](http://adsabs.harvard.edu/abs/2015JHEP...07..046A) 
+1. **L Ai**; V Soltangharaei; M Bayat; M van Tooren; P Ziehl. *Detection of Impact on Aircraft Composite Structure Using Machine Learning Techniques*, Measurement Science and Technology. 2021. Vol.32:084013. [DOI](https://doi.org/10.1088/1361-6501/abe790)
 
+1. **L Ai**; V Soltangharaei; M Bayat*; B Greer; P Ziehl. *Source Localization on Large-Scale Canisters for Used Nuclear Fuel Storage Using Optimal Number of Acoustic Emission Sensors*, Nuclear Engineering and Design. 2021. Vol.375:111097. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111097)
 
-1. A. E. Evrard, P. Arnault, D. Huterer, **A. Farahi**, *A model for multiproperty galaxy cluster statistics*, Monthly Notices of the Royal Astronomical Society 441, 3562 (2014). [ADS](http://adsabs.harvard.edu/abs/2014MNRAS.441.3562E) 
-
-
-1. **A. Farahi**, L. A. Pando Zayas, *Gravitational collapse, chaos in CFT correlators and the information paradox*, Physics Letters B 734, 31 (2014). [ADS](http://adsabs.harvard.edu/abs/2014PhLB..734...31F) 
-
-
-1. D. Arean, **A. Farahi**, L. A. Pando Zayas, I. S. Landea, A. Scardicchio, *Holographic superconductor with disorder*, Physical Review D 89, 106003 (2014). [ADS](http://adsabs.harvard.edu/abs/2014PhRvD..89j6003A)
-
-
-1. **A. Farahi**; A. J. Benson, *Excursion set theory for correlated random walks*, Monthly Notices of the Royal Astronomical Society 433, 3428 (2013). [ADS](http://adsabs.harvard.edu/abs/2013MNRAS.433.3428F)  
-
-
-1. A. J. Benson, **A. Farahi**, S. Cole, L. A. Moustakas, A. Jenkins, M. Lovell, R. Kennedy, J.
-Helly, C. Frenk, *Dark matter halo merger histories beyond cold dark matter - I. Methods and application to warm dark matter*, Monthly Notices of the Royal Astronomical Society 428, 1774 (2013). [ADS](http://adsabs.harvard.edu/abs/2013MNRAS.428.1774B) 
-
-
+1. **L Ai**; V Soltangharaei; M van Tooren; P Ziehl. *A Smart Impact Detection System for Aircraft Control Surface Based on Acoustic Emission Monitoring*, International Journal of COMADEM. 2021. Vol.24:27-34. [Link](https://www.apscience.org/comadem/index.php/comadem/article/view/278)
 
 Conference & Workshop Contributions
 ------
