@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the full list of academic publications, see my [CV](Li Ai-CV.pdf).
+For the full content of my CV, see the [attachment](Li Ai-CV.pdf).
 
 Education
 ======
