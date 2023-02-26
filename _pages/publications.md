@@ -21,7 +21,7 @@ Under Review
 
 1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*, Construction and Building Materials. [under review](under review)
 
-1. Laxman K C; A Henderson; E Elbatanouny; A Ross; ##L Ai*##; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*, Engineering Structures. [under review](under review)
+1. Laxman K C; A Henderson; E Elbatanouny; A Ross; ##L Ai; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*, Engineering Structures. [under review](under review)
 
 1. E Elbatanouny; **L Ai (corresponding)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*, Structural Concrete. [under review](under review)
 
