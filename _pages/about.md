@@ -24,7 +24,7 @@ My research interests include:
 - Cyber-physical systems
 - Digital twins. 
 
-My recent work includes: 
+My recent works include: 
 - AE source localization using deep learning 
 - Transfer learning framework combining finite element simulation and domain adaptation
 - Real-time AE monitoring system for alkali-silicate reaction (ASR) damage in concrete
