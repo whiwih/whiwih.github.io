@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D  in Civil Engineering, University of South Carolina, 2017-2021 
 * M.S. in Civil Engineering, Stevens Institute of Technology, 2014 - 2016
-* B.S. in Civil Engineering,, ZhengZhou University, 2010 - 2014
+* B.S. in Civil Engineering,, Zhengzhou University, 2010 - 2014
 
 
 Employment History 
