@@ -44,7 +44,7 @@ Refereed Journal Publications
 
 1. **L Ai**; V Soltangharaei; M Bayat; M van Tooren; P Ziehl. *Detection of Impact on Aircraft Composite Structure Using Machine Learning Techniques*, Measurement Science and Technology. 2021. Vol.32:084013. [DOI](https://doi.org/10.1088/1361-6501/abe790)
 
-1. **L Ai**; V Soltangharaei; M Bayat*; B Greer; P Ziehl. *Source Localization on Large-Scale Canisters for Used Nuclear Fuel Storage Using Optimal Number of Acoustic Emission Sensors*, Nuclear Engineering and Design. 2021. Vol.375:111097. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111097)
+1. **L Ai**; V Soltangharaei; M Bayat; B Greer; P Ziehl. *Source Localization on Large-Scale Canisters for Used Nuclear Fuel Storage Using Optimal Number of Acoustic Emission Sensors*, Nuclear Engineering and Design. 2021. Vol.375:111097. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111097)
 
 1. **L Ai**; V Soltangharaei; M van Tooren; P Ziehl. *A Smart Impact Detection System for Aircraft Control Surface Based on Acoustic Emission Monitoring*, International Journal of COMADEM. 2021. Vol.24:27-34. [Link](https://www.apscience.org/comadem/index.php/comadem/article/view/278)
 
