@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-------
+
 * University of South carolina:
    * Teaching assistant
    - 2021 Fall: ECIV-327 Reinforced Concrete Design
