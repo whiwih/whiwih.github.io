@@ -14,5 +14,5 @@ University of South carolina
 
 Stevens Institute of Technology
 ======
-   * Teaching assistant
-    * *2016 Fall: CE-519 Advanced Structure Analysis*
+* Teaching assistant
+   * *2016 Fall: CE-519 Advanced Structure Analysis*
