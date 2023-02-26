@@ -4,7 +4,6 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-----
 
 ## Determination of Vehicle Loads on Bridges by Acoustic Emission and An Improved Ensembled Artificial Neural Network
 2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX
