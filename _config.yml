@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "https://twitter.com/anumoshsad"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/li-ai-130615133/"
+  linkedin         : "https://www.linkedin.com/in/li-ai-130615133"
   orcid            : "https://orcid.org/0000-0003-2938-5533"
   pinterest        :
   soundcloud       :
