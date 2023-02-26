@@ -7,14 +7,14 @@ author_profile: true
 **The data and codes which are not publicly releaased might be available upon request.**
 
 
-In prepration
+In Prepration
 ------
 
 1. **L Ai**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Rehabilitation of Timber Piles Using FRP: A Study of Acoustic Emission Characteristics Under Uniaxial Compression*, TBD, in preperation. [TBD](TBD)
 
 1. **L Ai**; S Flowers; P Ziehl. *Acoustic Emission and Regression Model-Based Detection and Localization of Low-Velocity Impacts in Thermoplastic Aircraft Components*, TBD, in preperation. [TBD](TBD)
 
-Under review
+Under Review
 ------
 
 1. **L Ai**; Laxman K C; E Elbatanouny; M Bayat; M Bayat; M van Tooren; P Ziehl*. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*, Composites Part B: Engineering. [under review](under review)
