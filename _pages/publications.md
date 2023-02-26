@@ -21,9 +21,9 @@ Under review
 
 1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*, Construction and Building Materials. [under review](under review)
 
-1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*, Engineering Structures. [under review](under review)
+1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai(corresponding)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*, Engineering Structures. [under review](under review)
 
-1. E Elbatanouny; **L Ai**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*, Structural Concrete. [under review](under review)
+1. E Elbatanouny; **L Ai(corresponding)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*, Structural Concrete. [under review](under review)
 
 1. X Yan; H Su; **L Ai**; V Soltangharaei; X Xu; K Yao. *Study on Stage Characteristics of Hydraulic Concrete Fracture Under Uniaxial Compression Using Acoustic Emission*, International Journal of Solids and Structures. [under review](under review)
 
@@ -34,9 +34,9 @@ Refereed Journal Publications
 
 1. **L Ai**; M Bayat; P Ziehl. *Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*, Measurement. 2023. Vol.211:112695. [DOI](TBD) 
 
-1. Laxman K C; N Tabassum; **L Ai**; C Cole; P Ziehl. *Automated Crack Detection and Crack Depth Prediction for Reinforced Concrete Structures using Deep Learning*, Construction and Building Materials. 2023. Vol.370:130709. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.130709) 
+1. Laxman K C; N Tabassum; **L Ai(corresponding)**; C Cole; P Ziehl. *Automated Crack Detection and Crack Depth Prediction for Reinforced Concrete Structures using Deep Learning*, Construction and Building Materials. 2023. Vol.370:130709. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.130709) 
 
-1. Laxman K C; A Ross; **L Ai**; A Henderson; E Elbatanouny; M Bayat; P Ziehl. *Determination of Vehicle Loads on Bridges by Acoustic Emission and an Improved Ensembled Artificial Neural Network*, Construction and Building Materials. 2023. Vol.364:129844. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129844) 
+1. Laxman K C; A Ross; **L Ai(corresponding)**; A Henderson; E Elbatanouny; M Bayat; P Ziehl. *Determination of Vehicle Loads on Bridges by Acoustic Emission and an Improved Ensembled Artificial Neural Network*, Construction and Building Materials. 2023. Vol.364:129844. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129844) 
 
 1. **L Ai**; V Soltangharaei; P Ziehl. *Developing a Heterogeneous Ensemble Learning Framework to Evaluate Alkali-silica Reaction Damage in Concrete using Acoustic Emission Signals*, Mechanical Systems and Signal Processing. 2022. Vol.172:108981. [DOI](https://doi.org/10.1016/j.ymssp.2022.108981) 
 
