@@ -1,1 +1,42 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+## Finite Element Modeling of Acoustic Emission in Steel Plate
+2018, The 60th meeting of the Acoustic Emission Working Group, Charleston, SC
+
+## Finite Element Modeling of Acoustic Emission in Steel Plate
+2018, 45th Annual Review of Progress in Quantitative Nondestructive Evaluation, Burlington, VT
+
+## Data-Driven Source Localization of Impact on Aircraft Control Surfaces
+2020, IEEE Aerospace Conference, Big Sky, MT
+
+## Deep Learning Source Localization of Impact on Thermoplastic Control Surface
+2020, The ASME 2020 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, Virtual
+
+## A Minimally Intrusive Impact Detection System for Aircraft Moveable using Random Forest
+2020, The Composites and Advanced Materials Expo (CAMX 2020), Virtual
+
+##	Minimally Intrusive Sensing in Various Media enabled through Artificial Intelligence
+2020, The 62nd meeting of the Acoustic Emission Working Group, Virtual
+
+##	Assessment of Impact Damage Level for Composite Aircraft Components Using Acoustic Emission
+2021, The Composites and Advanced Materials Expo (CAMX 2021), Dallas, TX
+
+##	A Bridge Automated Load Rating Procedure Using Digital Twins
+2021, The Fifth Annual Fall Conference of USDOT Center for Connected Multimodal Mobility (C2M2), Clemson, SC
+
+##	Sensors working with Humans: A Case for Bridges
+2021, USDOT Center for Connected Multimodal Mobility (C2M2) Distinguished Speaker Webinar, Virtual
+
+##	Temporal ASR Damage Evaluation of Concrete Structures Leveraging Convolutional Neural Networks and Acoustic Emission
+2022, ACI Spring Convention, Orlando, FL
+
+##	Temporal Diagnosis of ASR Expansion in Simulated Nuclear Containment Leveraging Convolutional Neural Networks and Acoustic Emission
+2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX ##(Adrian Pollock Student Award)
+
+##	Determination of Vehicle Loads on Bridges by Acoustic Emission and An Improved Ensembled Artificial Neural Network
+2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX
 
