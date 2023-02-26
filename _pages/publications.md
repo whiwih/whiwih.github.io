@@ -17,15 +17,15 @@ In prepration
 Under review
 ------
 
-1. Mayers, J., Romer, K., **Farahi, A.**, et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards a new method to estimate black hole mass from short exposure X-ray observations*, MNRAS, submitted. [ADS](http://adsabs.harvard.edu/abs/2018arXiv180306891M)
+1. **L Ai**; Laxman K C; E Elbatanouny; M Bayat; M Bayat; M van Tooren; P Ziehl*. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*, Composites Part B: Engineering. [under review](under review)
 
-1. **Farahi, A.**, Stroud, J.; *The Michigan Data Science Team: A Data Science Education Program with Significant Social Impact*, DSW-2018, submitted. [TBD](TBD)
+1. **L Ai**; V Soltangharaei; B Greer; M Bayat*; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*, Construction and Building Materials. [under review](under review)
 
-1. Abernethy, J.D., Chojnacki, A., **Farahi A.**, Schwartz, E.M., Webb, J.A.; *ActiveRemediation: The Search for Lead Pipes in Flint, Michigan*, KDD-2018, submitted. [TBD](TBD)
+1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai***; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*, Engineering Structures. [under review](under review)
 
-1. DES Collaboration (including **Farahi, Arya**); *The Dark Energy Survey Data Release 1*, The Astrophysical Journal, [link](https://www.darkenergysurvey.org/wp-content/uploads/2018/01/DR1Release.pdf).
+1. E Elbatanouny; **L Ai***; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*, Structural Concrete. [under review](under review)
 
-1. **Farahi, A.** et al.; *Localized massive halo properties in BAHAMAS and MACSIS simulations: scalings, log-normality, and covariance*, Monthly Notices of the Royal Astronomical Society, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171104922F)
+1. X Yan; H Su; **L Ai**; V Soltangharaei; X Xu; K Yao. *Study on Stage Characteristics of Hydraulic Concrete Fracture Under Uniaxial Compression Using Acoustic Emission*, International Journal of Solids and Structures. [under review](under review)
 
 Refereed Journal Publications 
 ------
