@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Li Ai, PhD"
-  avatar           : "mugshot1.jpeg"
+  avatar           : "Li Ai.jpg"
   bio              : "Postdoctoral Fellow in Civil Engineering"
   location         : "University of South Carolina,SC USA"
   employer         :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/profiles/76561198210038132"
   tumblr           :
   twitter          : 
   vine             :
