@@ -19,7 +19,7 @@ Under review
 
 1. **L Ai**; Laxman K C; E Elbatanouny; M Bayat; M Bayat; M van Tooren; P Ziehl*. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*, Composites Part B: Engineering. [under review](under review)
 
-1. **L Ai**; V Soltangharaei; B Greer; M Bayat*; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*, Construction and Building Materials. [under review](under review)
+1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*, Construction and Building Materials. [under review](under review)
 
 1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai***; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*, Engineering Structures. [under review](under review)
 
