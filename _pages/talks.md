@@ -9,7 +9,7 @@ author_profile: true
 2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX
 
 ## Temporal Diagnosis of ASR Expansion in Simulated Nuclear Containment Leveraging Convolutional Neural Networks and Acoustic Emission
-2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX ##(Adrian Pollock Student Award)
+2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX **(Adrian Pollock Student Award)**
 
 ## Temporal ASR Damage Evaluation of Concrete Structures Leveraging Convolutional Neural Networks and Acoustic Emission
 2022, ACI Spring Convention, Orlando, FL
