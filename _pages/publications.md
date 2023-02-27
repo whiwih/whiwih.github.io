@@ -48,7 +48,7 @@ Refereed Journal Publications
 
 1. **L Ai**; V Soltangharaei; M van Tooren; P Ziehl. *A Smart Impact Detection System for Aircraft Control Surface Based on Acoustic Emission Monitoring*, International Journal of COMADEM. 2021. Vol.24:27-34. [DOI](https://www.apscience.org/comadem/index.php/comadem/article/view/278) [PDF](https://liaiusc.github.io/files/COMADEM.pdf)
 
-1. V Soltangharaei; **L Ai**; R Anay; M Bayat; P Ziehl. *Implementation of Information Entropy, b-value, and Regression Analyses for Temporal Evaluation of AE Data Recorded During ASR Cracking*, Practice Periodical on Structural Design and Construction-ASCE. 2021. Vol.26:04020065. [DOI](https://doi.org/10.1061/(ASCE)SC.1943-5576.0000550) [PDF](https://liaiusc.github.io/files/vaga entropy.pdf)
+1. V Soltangharaei; **L Ai**; R Anay; M Bayat; P Ziehl. *Implementation of Information Entropy, b-value, and Regression Analyses for Temporal Evaluation of AE Data Recorded During ASR Cracking*, Practice Periodical on Structural Design and Construction-ASCE. 2021. Vol.26:04020065. [DOI](https://doi.org/10.1061/(ASCE)SC.1943-5576.0000550) [PDF](https://liaiusc.github.io/files/vafa entropy.pdf)
 
 1. V Soltangharaei; R Anay; **L Ai**; ER. Giannini; J Zhu; P Ziehl. *Temporal Evaluation of ASR Cracking in Concrete Specimens Using Acoustic Emission*, Journal of Materials in Civil Engineering-ASCE. 2020. Vol.32:04020285. [DOI](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003353) [PDF](https://liaiusc.github.io/files/vafa asr.pdf)
 
