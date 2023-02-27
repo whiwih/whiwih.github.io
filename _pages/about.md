@@ -32,3 +32,8 @@ My recent works include:
 - Low-velocity impact monitoring framework for urban air mobility
 - Digital twin for concrete bridges.
 
+Recent News
+------
+* May, 2022. I won the paper competition at AEWG63 and received the Adrian Pollock Student Award.
+* August, 2021. I successfully defended my PhD dissertation "Towards Intelligent Structural Health Monitoring of Infrastructure Systems: An Interdisciplinary Study of Acoustic Emission Monitoring, Numerical Simulation, and Artificial Intelligence" under the supervision of Dr. Paul Ziehl.
+* September, 2021. I received the outstanding paper Award in the Composites and Advanced Materials Expo (CAMX 2020).
