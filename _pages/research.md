@@ -8,7 +8,7 @@ author_profile: true
 ## Determination of Vehicle Loads on Bridges by Acoustic Emission and An Improved Ensembled Artificial Neural Network
 2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX
 <p align="center">
-  <img src="https://liaiusc.github.io/images/ASR.JPG?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://liaiusc.github.io/images/ASR.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
 ## Temporal Diagnosis of ASR Expansion in Simulated Nuclear Containment Leveraging Convolutional Neural Networks and Acoustic Emission
