@@ -5,36 +5,41 @@ author_profile: true
 ---
 
 
-## Determination of Vehicle Loads on Bridges by Acoustic Emission and An Improved Ensembled Artificial Neural Network
-2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX
+## In-flight Health Monitoring and Assessment System for Aircraft Components
+Postdoctoral Fellow, University of South Carolina, September 2021 - Present 
 <p align="center">
-  <img src="https://liaiusc.github.io/images/ASR.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://liaiusc.github.io/images/UAM.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-## Temporal Diagnosis of ASR Expansion in Simulated Nuclear Containment Leveraging Convolutional Neural Networks and Acoustic Emission
-2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX **(Adrian Pollock Student Award)**
+## Automated Load Rating using Digital Twins 
+Postdoctoral Fellow, University of South Carolina, September 2021 - Present 
 <p align="center">
-  <img src="https://anumoshsad.github.io/images/das.JPG?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://liaiusc.github.io/images/Digital twin.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-## Temporal Diagnosis of ASR Expansion in Simulated Nuclear Containment Leveraging Convolutional Neural Networks and Acoustic Emission
-2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX **(Adrian Pollock Student Award)**
+## Acoustic Emission Source Localization using Transfer Learning, Numerical Simulation and Unsupervised Domain Adaptation
+Postdoctoral Fellow, University of South Carolina, September 2021 - Present 
 <p align="center">
-  <img src="https://anumoshsad.github.io/images/das.JPG?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://liaiusc.github.io/images/TL.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-## Temporal Diagnosis of ASR Expansion in Simulated Nuclear Containment Leveraging Convolutional Neural Networks and Acoustic Emission
-2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX **(Adrian Pollock Student Award)**
+## Damage Localization for Large-scale Structures using Minimum Number of Sensors
+Postdoctoral Fellow, University of South Carolina, September 2021 - Present  
 <p align="center">
-  <img src="https://anumoshsad.github.io/images/das.JPG?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://liaiusc.github.io/images/single sensor.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-## Temporal Diagnosis of ASR Expansion in Simulated Nuclear Containment Leveraging Convolutional Neural Networks and Acoustic Emission
-2022, The 63rd meeting of the Acoustic Emission Working Group, Huston, TX **(Adrian Pollock Student Award)**
+## Online Monitoring System for Concrete Structures Affected by Alkali-Silica Reaction
+Postdoctoral Fellow, University of South Carolina, September 2021 - Present 
 <p align="center">
-  <img src="https://anumoshsad.github.io/images/das.JPG?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://liaiusc.github.io/images/ASR.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
+## Detection and Monitoring of Stress-corrosion-cracking on Dry Cast Storage System Canisters
+Postdoctoral Fellow, University of South Carolina, September 2021 - Present 
+<p align="center">
+  <img src="https://liaiusc.github.io/images/SCC.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
 
 # Recent News
 * June 19, 2020. I successfully defended my PhD thesis "On the Structure of Polyhedral Products" under the supervision of Professor Fred Cohen.
