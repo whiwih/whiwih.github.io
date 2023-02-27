@@ -30,29 +30,29 @@ Under Review
 Refereed Journal Publications 
 ------
 
-1. **L Ai**; B Zhang; P Ziehl. *A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*, Mechanical Systems and Signal Processing. 2023. Vol.192:110216. [DOI](https://doi.org/10.1016/j.ymssp.2023.110216)[PDF](https://liaiusc.github.io/files/TL.pdf)
+1. **L Ai**; B Zhang; P Ziehl. *A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*, Mechanical Systems and Signal Processing. 2023. Vol.192:110216. [DOI](https://doi.org/10.1016/j.ymssp.2023.110216) [PDF](https://liaiusc.github.io/files/TL.pdf)
 
 1. **L Ai**; M Bayat; P Ziehl. *Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*, Measurement. 2023. Vol.211:112695. [DOI](TBD) 
 
-1. Laxman K C; N Tabassum; **L Ai (corresponding)**; C Cole; P Ziehl. *Automated Crack Detection and Crack Depth Prediction for Reinforced Concrete Structures using Deep Learning*, Construction and Building Materials. 2023. Vol.370:130709. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.130709)[PDF](https://liaiusc.github.io/files/Drone.pdf) 
+1. Laxman K C; N Tabassum; **L Ai (corresponding)**; C Cole; P Ziehl. *Automated Crack Detection and Crack Depth Prediction for Reinforced Concrete Structures using Deep Learning*, Construction and Building Materials. 2023. Vol.370:130709. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.130709) [PDF](https://liaiusc.github.io/files/Drone.pdf) 
 
-1. Laxman K C; A Ross; **L Ai (corresponding)**; A Henderson; E Elbatanouny; M Bayat; P Ziehl. *Determination of Vehicle Loads on Bridges by Acoustic Emission and an Improved Ensembled Artificial Neural Network*, Construction and Building Materials. 2023. Vol.364:129844. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129844)[PDF](https://liaiusc.github.io/files/allen paper.pdf) 
+1. Laxman K C; A Ross; **L Ai (corresponding)**; A Henderson; E Elbatanouny; M Bayat; P Ziehl. *Determination of Vehicle Loads on Bridges by Acoustic Emission and an Improved Ensembled Artificial Neural Network*, Construction and Building Materials. 2023. Vol.364:129844. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129844) [PDF](https://liaiusc.github.io/files/allen paper.pdf) 
 
-1. **L Ai**; V Soltangharaei; P Ziehl. *Developing a Heterogeneous Ensemble Learning Framework to Evaluate Alkali-silica Reaction Damage in Concrete using Acoustic Emission Signals*, Mechanical Systems and Signal Processing. 2022. Vol.172:108981. [DOI](https://doi.org/10.1016/j.ymssp.2022.108981)[PDF](https://liaiusc.github.io/files/Developing a.pdf) 
+1. **L Ai**; V Soltangharaei; P Ziehl. *Developing a Heterogeneous Ensemble Learning Framework to Evaluate Alkali-silica Reaction Damage in Concrete using Acoustic Emission Signals*, Mechanical Systems and Signal Processing. 2022. Vol.172:108981. [DOI](https://doi.org/10.1016/j.ymssp.2022.108981) [PDF](https://liaiusc.github.io/files/Developing a.pdf) 
 
-1. **L Ai**; V Soltangharaei; P Ziehl. *Evaluation of ASR in Concrete Using Acoustic Emission and deep learning*, Nuclear Engineering and Design. 2021. Vol.380:111328. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111328)[PDF](https://liaiusc.github.io/files/Evaluation of ASR.pdf)
+1. **L Ai**; V Soltangharaei; P Ziehl. *Evaluation of ASR in Concrete Using Acoustic Emission and deep learning*, Nuclear Engineering and Design. 2021. Vol.380:111328. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111328) [PDF](https://liaiusc.github.io/files/Evaluation of ASR.pdf)
 
-1. **L Ai**; V Soltangharaei; M Bayat; M van Tooren; P Ziehl. *Detection of Impact on Aircraft Composite Structure Using Machine Learning Techniques*, Measurement Science and Technology. 2021. Vol.32:084013. [DOI](https://doi.org/10.1088/1361-6501/abe790)[PDF](https://liaiusc.github.io/files/MST.pdf)
+1. **L Ai**; V Soltangharaei; M Bayat; M van Tooren; P Ziehl. *Detection of Impact on Aircraft Composite Structure Using Machine Learning Techniques*, Measurement Science and Technology. 2021. Vol.32:084013. [DOI](https://doi.org/10.1088/1361-6501/abe790) [PDF](https://liaiusc.github.io/files/MST.pdf)
 
-1. **L Ai**; V Soltangharaei; M Bayat; B Greer; P Ziehl. *Source Localization on Large-Scale Canisters for Used Nuclear Fuel Storage Using Optimal Number of Acoustic Emission Sensors*, Nuclear Engineering and Design. 2021. Vol.375:111097. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111097)[PDF](https://liaiusc.github.io/files/optimal number.pdf)
+1. **L Ai**; V Soltangharaei; M Bayat; B Greer; P Ziehl. *Source Localization on Large-Scale Canisters for Used Nuclear Fuel Storage Using Optimal Number of Acoustic Emission Sensors*, Nuclear Engineering and Design. 2021. Vol.375:111097. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111097) [PDF](https://liaiusc.github.io/files/optimal number.pdf)
 
-1. **L Ai**; V Soltangharaei; M van Tooren; P Ziehl. *A Smart Impact Detection System for Aircraft Control Surface Based on Acoustic Emission Monitoring*, International Journal of COMADEM. 2021. Vol.24:27-34. [Link](https://www.apscience.org/comadem/index.php/comadem/article/view/278)[PDF](https://liaiusc.github.io/files/COMADEM.pdf)
+1. **L Ai**; V Soltangharaei; M van Tooren; P Ziehl. *A Smart Impact Detection System for Aircraft Control Surface Based on Acoustic Emission Monitoring*, International Journal of COMADEM. 2021. Vol.24:27-34. [DOI](https://www.apscience.org/comadem/index.php/comadem/article/view/278) [PDF](https://liaiusc.github.io/files/COMADEM.pdf)
 
-1. V Soltangharaei; **L Ai**; R Anay; M Bayat; P Ziehl. *Implementation of Information Entropy, b-value, and Regression Analyses for Temporal Evaluation of AE Data Recorded During ASR Cracking*, Practice Periodical on Structural Design and Construction-ASCE. 2021. Vol.26:04020065. [DOI](https://doi.org/10.1061/(ASCE)SC.1943-5576.0000550)[PDF](https://liaiusc.github.io/files/vaga entropy.pdf)
+1. V Soltangharaei; **L Ai**; R Anay; M Bayat; P Ziehl. *Implementation of Information Entropy, b-value, and Regression Analyses for Temporal Evaluation of AE Data Recorded During ASR Cracking*, Practice Periodical on Structural Design and Construction-ASCE. 2021. Vol.26:04020065. [DOI](https://doi.org/10.1061/(ASCE)SC.1943-5576.0000550) [PDF](https://liaiusc.github.io/files/vaga entropy.pdf)
 
-1. V Soltangharaei; R Anay; **L Ai**; ER. Giannini; J Zhu; P Ziehl. *Temporal Evaluation of ASR Cracking in Concrete Specimens Using Acoustic Emission*, Journal of Materials in Civil Engineering-ASCE. 2020. Vol.32:04020285. [DOI](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003353)[PDF](https://liaiusc.github.io/files/vafa asr.pdf)
+1. V Soltangharaei; R Anay; **L Ai**; ER. Giannini; J Zhu; P Ziehl. *Temporal Evaluation of ASR Cracking in Concrete Specimens Using Acoustic Emission*, Journal of Materials in Civil Engineering-ASCE. 2020. Vol.32:04020285. [DOI](https://doi.org/10.1061/(ASCE)MT.1943-5533.0003353) [PDF](https://liaiusc.github.io/files/vafa asr.pdf)
 
-1. V Soltangharaei; JW Hill; **L Ai**; R Anay; B Greer; M Bayat; P Ziehl. *Acoustic Emission Technique to Identify Stress Corrosion Cracking Damage*, Structural Engineering and Mechanics. 2020. Vol.75:723-736. [DOI](https://doi.org/10.12989/sem.2020.75.6.723)[PDF](https://liaiusc.github.io/files/vafa scc.pdf)
+1. V Soltangharaei; JW Hill; **L Ai**; R Anay; B Greer; M Bayat; P Ziehl. *Acoustic Emission Technique to Identify Stress Corrosion Cracking Damage*, Structural Engineering and Mechanics. 2020. Vol.75:723-736. [DOI](https://doi.org/10.12989/sem.2020.75.6.723) [PDF](https://liaiusc.github.io/files/vafa scc.pdf)
 
 Referred Conference Proceedings
 ------
