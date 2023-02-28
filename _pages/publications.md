@@ -27,6 +27,8 @@ Under Review
 
 1. X Yan; H Su; **L Ai**; V Soltangharaei; X Xu; K Yao. *Study on Stage Characteristics of Hydraulic Concrete Fracture Under Uniaxial Compression Using Acoustic Emission*, International Journal of Solids and Structures. [under review](under review)
 
+1. E Elbatanouny; **L Ai (corresponding)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*, Construction and Building Materials. [under review](under review)
+
 Refereed Journal Publications 
 ------
 
