@@ -34,6 +34,8 @@ My recent works include:
 
 Recent News
 ------
+* Feb, 2023. My paper entitled "*A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*" has been accepted fo publication on *Mechanical Systems and Signal Processing*
+* May, 2024. My paper entitled "*Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*" has been accepted fo publication on *Measurement*
 * May, 2022. I won the paper competition at AEWG63 and received the Adrian Pollock Student Award.
-* August, 2021. I successfully defended my PhD dissertation "Towards Intelligent Structural Health Monitoring of Infrastructure Systems: An Interdisciplinary Study of Acoustic Emission Monitoring, Numerical Simulation, and Artificial Intelligence" under the supervision of Dr. Paul Ziehl.
-* September, 2020. I received the outstanding paper Award in the Composites and Advanced Materials Expo (CAMX 2020).
+* Sept, 2022. I start a new position as Postdoctoral Fellow at the University of South Carolina.
+* Aug, 2021. I successfully defended my PhD dissertation "Towards Intelligent Structural Health Monitoring of Infrastructure Systems: An Interdisciplinary Study of Acoustic Emission Monitoring, Numerical Simulation, and Artificial Intelligence" under the supervision of Dr. Paul Ziehl.
