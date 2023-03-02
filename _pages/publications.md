@@ -34,7 +34,7 @@ Refereed Journal Publications
 
 1. **L Ai**; B Zhang; P Ziehl. *A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*. Mechanical Systems and Signal Processing. 2023. Vol.192:110216. [DOI](https://doi.org/10.1016/j.ymssp.2023.110216) [PDF](https://liaiusc.github.io/files/TL.pdf)
 
-1. **L Ai**; M Bayat; P Ziehl. *Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*. Measurement. 2023. Vol.211:112659. [DOI](TBD) [PDF](TBD) 
+1. **L Ai**; M Bayat; P Ziehl. *Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*. Measurement. 2023. Vol.211:112659. [DOI](https://doi.org/10.1016/j.measurement.2023.112659) [PDF](TBD) 
 
 1. Laxman K C; N Tabassum; **L Ai (corresponding)**; C Cole; P Ziehl. *Automated Crack Detection and Crack Depth Prediction for Reinforced Concrete Structures using Deep Learning*. Construction and Building Materials. 2023. Vol.370:130709. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.130709) [PDF](https://liaiusc.github.io/files/Drone.pdf) 
 
