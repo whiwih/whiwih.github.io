@@ -14,8 +14,6 @@ In Prepration
 
 1. **L Ai**; S Flowers; P Ziehl. *Acoustic Emission and Regression Model-Based Detection and Localization of Low-Velocity Impacts in Thermoplastic Aircraft Components*. TBD, in preperation. [TBD](TBD)
 
-#1. H He; S E; **L Ai**; B Cheng; C He. *Exploiting Machine Learning for Controlled Synthesis of Carbon Dots-based Corrosion Inhibitors*. TBD, in preperation. [TBD](TBD)
-
 Under Review
 ------
 
