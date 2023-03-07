@@ -7,7 +7,7 @@ author_profile: true
 
 This page contains recent calls for papers, chapters, and other contributions where I am serving as an Editor/Guest Editor:
 
-1 Special issue: Coatings: Surface Engineering and Mechanical Properties of Building Materials [Website](https://www.mdpi.com/journal/coatings/special_issues/M8HUBU2OA3).
+1. Special issue: Coatings: Surface Engineering and Mechanical Properties of Building Materials [Website](https://www.mdpi.com/journal/coatings/special_issues/M8HUBU2OA3).
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/coating.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
