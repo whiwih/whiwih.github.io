@@ -21,10 +21,13 @@ Potential Topic List:
    * Life cycle analysis of durable and sustainable building materials.
 Submission deadline: December 10, 2023
 
+
+
+Special issue: *Journal of Engineered Fibers and Fabrics: Sustainable Fiber Reinforced Cementitious Composites* [Link](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites).
+------
 <p align="left">
   <img src="https://liaiusc.github.io/images/UAM.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
-Special issue: *Journal of Engineered Fibers and Fabrics: Sustainable Fiber Reinforced Cementitious Composites* [Link](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites).
 Potential Topic List:
    * Advancement in the mix design of sustainable fiber-reinforced cementitious composites
    * Fiber-reinforced sustainable cementitious composites
