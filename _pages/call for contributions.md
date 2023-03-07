@@ -12,8 +12,7 @@ This page contains recent calls for papers, chapters, and other contributions wh
 <p align="left">
   <img src="https://liaiusc.github.io/images/coating.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p> 
-Topic: Surface Engineering and Mechanical Properties of Building Materials [Website](https://www.mdpi.com/journal/coatings/special_issues/M8HUBU2OA3).
-Research areas may include (but are not limited to) the following:
+Topic: [Surface Engineering and Mechanical Properties of Building Materials](https://www.mdpi.com/journal/coatings/special_issues/M8HUBU2OA3). Research areas may include (but are not limited to) the following:
    * New fracture testing findings or methods;
    * Multiscale characterization of building materials;
    * Descriptive or virtual modeling of building materials or structures;
@@ -32,8 +31,7 @@ Submission deadline: December 10, 2023
 <p align="left">
   <img src="https://liaiusc.github.io/images/JEFF.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
-Topic: Sustainable Fiber Reinforced Cementitious Composites [Website](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites).
-Research areas may include (but are not limited to) the following:
+Topic: [Sustainable Fiber Reinforced Cementitious Composites](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites). Research areas may include (but are not limited to) the following:
    * Advancement in the mix design of sustainable fiber-reinforced cementitious composites
    * Fiber-reinforced sustainable cementitious composites
    * Use of sustainable waste material in fiber-reinforced cementitious composite
