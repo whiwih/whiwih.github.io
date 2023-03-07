@@ -3,9 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 The data and codes which are not publicly released might be available upon request
-------
 
 In Prepration
 ------
