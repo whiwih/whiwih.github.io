@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## This page contains recent calls for papers, chapters, and other contributions where I am serving as an Editor/Co-Editor:
+This page contains recent calls for papers, chapters, and other contributions where I am serving as an Editor/Guest Editor:
 
 Special issue: Coatings: Surface Engineering and Mechanical Properties of Building Materials [Website](https://www.mdpi.com/journal/coatings/special_issues/M8HUBU2OA3).
 ------
