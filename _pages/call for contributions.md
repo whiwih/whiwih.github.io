@@ -10,7 +10,7 @@ author_profile: true
   <img src="https://liaiusc.github.io/images/UAM.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p> 
 Special issue: *Coatings: Surface Engineering and Mechanical Properties of Building Materials* [Link](https://www.mdpi.com/journal/coatings/special_issues/M8HUBU2OA3).
-In this Special Issue, original research articles and reviews are welcome. Research areas may include (but are not limited to) the following:
+Potential Topic List:
    * New fracture testing findings or methods;
    * Multiscale characterization of building materials;
    * Descriptive or virtual modeling of building materials or structures;
@@ -19,10 +19,16 @@ In this Special Issue, original research articles and reviews are welcome. Resea
    * Monitoring and diagnosis of building material failure;
    * Advanced fracture mechanics model of building materials or structures;
    * Life cycle analysis of durable and sustainable building materials.
-
+Submission deadline: December 10, 2023
 
 <p align="left">
   <img src="https://liaiusc.github.io/images/UAM.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
-Special issue: *Journal of Engineered Fibers and Fabrics*. Topic: Sustainable Fiber Reinforced Cementitious Composites [Link](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites).
-
+Special issue: *Journal of Engineered Fibers and Fabrics: Sustainable Fiber Reinforced Cementitious Composites* [Link](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites).
+Potential Topic List:
+   * Advancement in the mix design of sustainable fiber-reinforced cementitious composites
+   * Fiber-reinforced sustainable cementitious composites
+   * Use of sustainable waste material in fiber-reinforced cementitious composite
+   * Artificial Intelligence/computational modeling techniques for sustainable fiber-reinforced materials
+   * Structural application of sustainable fiber-reinforced composites
+Submission deadline: August 8, 2023
