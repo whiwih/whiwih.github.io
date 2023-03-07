@@ -11,14 +11,14 @@ author_profile: true
 </p> 
 Special issue: *Coatings: Surface Engineering and Mechanical Properties of Building Materials* [Link](https://www.mdpi.com/journal/coatings/special_issues/M8HUBU2OA3).
 In this Special Issue, original research articles and reviews are welcome. Research areas may include (but are not limited to) the following:
-New fracture testing findings or methods;
-Multiscale characterization of building materials;
-Descriptive or virtual modeling of building materials or structures;
-Mechanical performance analysis based on data science;
-Anti-cracking practices on building materials or structures;
-Monitoring and diagnosis of building material failure;
-Advanced fracture mechanics model of building materials or structures;
-Life cycle analysis of durable and sustainable building materials.
+   * New fracture testing findings or methods;
+   * Multiscale characterization of building materials;
+   * Descriptive or virtual modeling of building materials or structures;
+   * Mechanical performance analysis based on data science;
+   * Anti-cracking practices on building materials or structures;
+   * Monitoring and diagnosis of building material failure;
+   * Advanced fracture mechanics model of building materials or structures;
+   * Life cycle analysis of durable and sustainable building materials.
 
 
 <p align="left">
