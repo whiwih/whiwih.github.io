@@ -21,6 +21,7 @@ Potential Topic List:
    * Monitoring and diagnosis of building material failure;
    * Advanced fracture mechanics model of building materials or structures;
    * Life cycle analysis of durable and sustainable building materials.
+  
 Submission deadline: December 10, 2023
 
 
@@ -36,4 +37,5 @@ Potential Topic List:
    * Use of sustainable waste material in fiber-reinforced cementitious composite
    * Artificial Intelligence/computational modeling techniques for sustainable fiber-reinforced materials
    * Structural application of sustainable fiber-reinforced composites
+
 Submission deadline: August 8, 2023
