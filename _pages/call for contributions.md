@@ -1,5 +1,5 @@
 ---
-title: "Call for contributions"
+title: "Call for Contributions"
 permalink: /call for contributions/
 author_profile: true
 ---
