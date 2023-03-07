@@ -7,7 +7,7 @@ author_profile: true
 
 This page contains recent calls for papers, chapters, and other contributions where I am serving as an Editor/Guest Editor:
 
-**1. Special issue: Coatings:** 
+**1. Special issue: Coatings (IF=3.236)** 
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/coating.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
@@ -27,12 +27,13 @@ Submission deadline: December 10, 2023
 
 
 
-**2. Special issue: Journal of Engineered Fibers and Fabrics:** Sustainable Fiber Reinforced Cementitious Composites [Website](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites).
+**2. Special issue: Journal of Engineered Fibers and Fabrics (IF=2.00)**
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/JEFF.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
-Potential Topic List:
+Topic: Sustainable Fiber Reinforced Cementitious Composites [Website](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites).
+Research areas may include (but are not limited to) the following:
    * Advancement in the mix design of sustainable fiber-reinforced cementitious composites
    * Fiber-reinforced sustainable cementitious composites
    * Use of sustainable waste material in fiber-reinforced cementitious composite
