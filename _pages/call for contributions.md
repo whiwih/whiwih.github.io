@@ -10,7 +10,7 @@ This page contains recent calls for papers, chapters, and other contributions wh
 **1. Special issue: Coatings: Surface Engineering and Mechanical Properties of Building Materials** [Website](https://www.mdpi.com/journal/coatings/special_issues/M8HUBU2OA3).
 ------
 <p align="left">
-  <img src="https://liaiusc.github.io/images/coating.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://liaiusc.github.io/images/coating.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p> 
 Potential Topic List:
    * New fracture testing findings or methods;
@@ -29,7 +29,7 @@ Submission deadline: December 10, 2023
 **2. Special issue: Journal of Engineered Fibers and Fabrics: Sustainable Fiber Reinforced Cementitious Composites** [Website](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites).
 ------
 <p align="left">
-  <img src="https://liaiusc.github.io/images/JEFF.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://liaiusc.github.io/images/JEFF.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
 Potential Topic List:
    * Advancement in the mix design of sustainable fiber-reinforced cementitious composites
