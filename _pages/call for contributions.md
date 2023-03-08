@@ -29,7 +29,7 @@ Submission deadline: December 10, 2023
 **2. Special issue: Journal of Engineered Fibers and Fabrics (IF=2.00)**
 ------
 <p align="left">
-  <img src="https://liaiusc.github.io/images/JEFF.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
+  <img src="https://liaiusc.github.io/images/JEF.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
 Topic: [Sustainable Fiber Reinforced Cementitious Composites](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites). Research areas may include (but are not limited to) the following:
    * Advancement in the mix design of sustainable fiber-reinforced cementitious composites
