@@ -43,6 +43,7 @@ Professional Services
    * *Practice Periodical on Structural Design and Construction-ASCE*
    * *Structural Health Monitoring-SAGE*
    * *Construction and Building Materials*
+   * *Engineering Structures*
    * *Neurocomputing*
    * *Structural Concrete*
    * *Transportation Research Record*
