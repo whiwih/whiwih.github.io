@@ -14,10 +14,12 @@ In Prepration
 
 1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. TBD, in preperation. [TBD](TBD)
 
+1. **L Ai**; E Elbatanouny; Laxman K C; S Houck; B Henderson; P Ziehl. *Rapid Localization for Low-velocity Impacts of Composite Plates Using Acoustic Emission Sensor*. TBD, in preperation. [TBD](TBD)
+
 Under Review
 ------
 
-1. **L Ai**; Laxman K C; E Elbatanouny; M Bayat; M Bayat; M van Tooren; P Ziehl*. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Composites Part B: Engineering. [under review](under review)
+1. **L Ai**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Composites Part B: Engineering. [under review](under review)
 
 1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Construction and Building Materials. [under review](under review)
 
