@@ -12,6 +12,8 @@ In Prepration
 
 1. **L Ai**; S Flowers; P Ziehl. *Acoustic Emission and Regression Model-Based Detection and Localization of Low-Velocity Impacts in Thermoplastic Aircraft Components*. TBD, in preperation. [TBD](TBD)
 
+1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. TBD, in preperation. [TBD](TBD)
+
 Under Review
 ------
 
