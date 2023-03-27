@@ -5,16 +5,16 @@ author_profile: true
 ---
 The data and codes which are not publicly released might be available upon request
 
-In Prepration
+In Preparation
 ------
 
-1. **L Ai**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Rehabilitation of Timber Piles Using FRP: A Study of Acoustic Emission Characteristics Under Uniaxial Compression*. TBD, in preperation. [TBD](TBD)
+1. **L Ai**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Rehabilitation of Timber Piles Using FRP: A Study of Acoustic Emission Characteristics Under Uniaxial Compression*. TBD, in preparation. [TBD](TBD)
 
-1. **L Ai**; S Flowers; P Ziehl. *Acoustic Emission and Regression Model-Based Detection and Localization of Low-Velocity Impacts in Thermoplastic Aircraft Components*. TBD, in preperation. [TBD](TBD)
+1. **L Ai**; S Flowers; P Ziehl. *Acoustic Emission and Regression Model-Based Detection and Localization of Low-Velocity Impacts in Thermoplastic Aircraft Components*. TBD, in preparation. [TBD](TBD)
 
-1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. TBD, in preperation. [TBD](TBD)
+1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. TBD, in preparation. [TBD](TBD)
 
-1. **L Ai**; E Elbatanouny; Laxman K C; S Houck; B Henderson; P Ziehl. *Rapid Localization for Low-velocity Impacts of Composite Plates Using Acoustic Emission Sensor*. TBD, in preperation. [TBD](TBD)
+1. **L Ai**; E Elbatanouny; Laxman K C; S Houck; B Henderson; P Ziehl. *Rapid Localization for Low-velocity Impacts of Composite Plates Using Acoustic Emission Sensor*. TBD, in preparation. [TBD](TBD)
 
 Under Review
 ------
