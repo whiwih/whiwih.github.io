@@ -20,7 +20,7 @@ My research interests include:
 - Nondestructive testing (NDT)
 - Structural health monitoring (SHM)
 - Acoustic emission (AE) 
-- Artificial intelligence
+- AI for Science/Engineering
 - Cyber-physical systems
 - Digital twins. 
 
