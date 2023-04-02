@@ -7,12 +7,30 @@ author_profile: true
 
 This page contains recent calls for papers, chapters, and other contributions where I am serving as an Editor/Guest Editor:
 
+**1. Special issue: materials (IF=3.748)** 
+------
+<p align="left">
+  <img src="https://liaiusc.github.io/images/materials.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
+</p> 
+Topic: [Innovative Material Design and Non-Destructive Testing Applications for Infrastructure Materials](https://www.mdpi.com/journal/coatings/special_issues/Building_Mechanical). Research areas may include (but are not limited to) the following:
+   * Novel and sustainable materials for transportation infrastructure
+   * Development and characterization of nanocomposites and their applications in infrastructure materials
+   * Advancements in 3D printing and additive manufacturing for material design and fabrication in infrastructure
+   * Innovations in nondestructive evaluation techniques for assessing and monitoring infrastructure materials
+   * Structural health monitoring and damage diagnosis with a focus on material properties and performance
+   * Innovative material-based maintenance and rehabilitation methods for transportation infrastructure
+   * Material-centric resilience and life-cycle assessment of transportation infrastructure components
+  
+Submission deadline: December 20, 2023
+
+
+
 **1. Special issue: Coatings (IF=3.236)** 
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/coating.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p> 
-Topic: [Surface Engineering and Mechanical Properties of Building Materials](https://www.mdpi.com/journal/coatings/special_issues/M8HUBU2OA3). Research areas may include (but are not limited to) the following:
+Topic: [Surface Engineering and Mechanical Properties of Building Materials](https://www.mdpi.com/journal/coatings/special_issues/Building_Mechanical). Research areas may include (but are not limited to) the following:
    * New fracture testing findings or methods
    * Multiscale characterization of building materials
    * Descriptive or virtual modeling of building materials or structures
