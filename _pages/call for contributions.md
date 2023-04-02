@@ -12,7 +12,7 @@ This page contains recent calls for papers, chapters, and other contributions wh
 <p align="left">
   <img src="https://liaiusc.github.io/images/materials.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p> 
-Topic: [Innovative Material Design and Non-Destructive Testing Applications for Infrastructure Materials](https://www.mdpi.com/journal/coatings/special_issues/Building_Mechanical). Research areas may include (but are not limited to) the following:
+Topic: [Innovative Material Design and Non-Destructive Testing Applications for Infrastructure Materials](https://www.mdpi.com/journal/materials/special_issues/6UFRF89J27). Research areas may include (but are not limited to) the following:
    * Novel and sustainable materials for transportation infrastructure
    * Development and characterization of nanocomposites and their applications in infrastructure materials
    * Advancements in 3D printing and additive manufacturing for material design and fabrication in infrastructure
