@@ -25,7 +25,7 @@ Submission deadline: December 20, 2023
 
 
 
-**1. Special issue: Coatings (IF=3.236)** 
+**2. Special issue: Coatings (IF=3.236)** 
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/coating.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
@@ -44,7 +44,7 @@ Submission deadline: December 10, 2023
 
 
 
-**2. Special issue: Journal of Engineered Fibers and Fabrics (IF=2.00)**
+**3. Special issue: Journal of Engineered Fibers and Fabrics (IF=2.00)**
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/JEF.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
