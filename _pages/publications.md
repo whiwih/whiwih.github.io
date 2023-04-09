@@ -31,6 +31,8 @@ Under Review
 
 1. E Elbatanouny; **L Ai (corresponding)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Construction and Building Materials. [under review](under review)
 
+1. H He; S E; **L Ai**; X Wang; J Yao; B Cheng; C He. *Exploiting machine learning for controlled synthesis of carbon dots-based corrosion inhibitors*. Chemical Engineering Journal. [under review](under review)
+
 Refereed Journal Publications 
 ------
 
