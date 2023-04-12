@@ -27,9 +27,10 @@ Employment History
 
 Awards and Honors 
 ------
+* 2023, Outstanding reviewer award for the year of 2022, Practice Periodical on Structural Design and Construction-ASCE
 * 2022, Adrian Pollock Student Award, AEWG-63 – The Acoustic Emission Working Group Annual Meeting
 * 2021, M. Bert Storey Graduate Fellowship, Department of Civil and environmental Engineering, University of South Carolina
-* 2021, Outstanding Paper Award, CAMX – The Composites and Advanced Materials Expo. CAMX Conference Proceedings
+* 2020, Outstanding Paper Award, CAMX – The Composites and Advanced Materials Expo. CAMX Conference Proceedings
 
   
 Professional Services 
