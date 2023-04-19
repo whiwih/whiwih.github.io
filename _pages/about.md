@@ -34,7 +34,7 @@ My recent works include:
 
 Recent News
 ------
-* Apr, I am appointed as an associate editor for the ASCE journal *Practice Periodical on Structural Design and Construction*.
+* Apr, 2023. I am appointed as an associate editor for the ASCE journal *Practice Periodical on Structural Design and Construction*.
 * Feb, 2023. My paper entitled "*A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*" has been accepted for publication on *Mechanical Systems and Signal Processing*.
 * Feb, 2023. My paper entitled "*Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*" has been accepted for publication on *Measurement*.
 * May, 2022. I won the paper competition at AEWG63 and received the Adrian Pollock Student Award.
