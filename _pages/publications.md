@@ -14,11 +14,11 @@ In Preparation
 
 1. **L Ai**; E Elbatanouny; Laxman K C; S Houck; B Henderson; P Ziehl. *Rapid Localization for Low-velocity Impacts of Composite Plates Using Acoustic Emission Sensor*. Target Journal: [TBD](TBD), in preparation.
 
-1. Xiaoqun Yan; Huaizhi Su; **Li Ai**. *Self-supervised Learning Framework for Fracture Damage Assessment of Hydraulic Concrete Based on Acoustic Emission Signals*. Target Journal: [TBD](TBD), in preparation.
+1. X Yan; H Su; **L Ai**. *Self-supervised Learning Framework for Fracture Damage Assessment of Hydraulic Concrete Based on Acoustic Emission Signals*. Target Journal: [TBD](TBD), in preparation.
 
-1. Xiaoqun Yan; Huaizhi Su; **Li Ai**. *Estimation of Cracking and Damage Mechanisms in Hydraulic Concrete under Three-point Bending by Moment Tensor Analysis of Acoustic Emission*. Target Journal: [TBD](TBD), in preparation.
+1. X Yan; H Su; **L Ai**. *Estimation of Cracking and Damage Mechanisms in Hydraulic Concrete under Three-point Bending by Moment Tensor Analysis of Acoustic Emission*. Target Journal: [TBD](TBD), in preparation.
 
-1. Xiaoqun Yan; Huaizhi Su; **Li Ai**. *Numerical Simulation Method of Acoustic Emission for Hydraulic Concrete Failure Considering Material Heterogeneity*. Target Journal: [TBD](TBD), in preparation.
+1. Xi Yan; H Su; **L Ai**. *Numerical Simulation Method of Acoustic Emission for Hydraulic Concrete Failure Considering Material Heterogeneity*. Target Journal: [TBD](TBD), in preparation.
 
 Under Review
 ------
