@@ -21,9 +21,6 @@ Under Review
 
 1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Construction and Building Materials. [under review](under review)
 
-1. **L Ai**; S Flowers; T Mesaric; B Henderson; S Houck; P Ziehl. *Acoustic Emission-Based Detection of Impacts on Thermoplastic Aircraft 
-Control Surfaces*. Applied Sciences. [under review](under review)
-
 1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (corresponding)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Engineering Structures. [under review](under review)
 
 1. E Elbatanouny; **L Ai (corresponding)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Structures. [under review](under review)
@@ -40,6 +37,8 @@ Refereed Journal Publications
 1. **L Ai**; B Zhang; P Ziehl. *A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*. Mechanical Systems and Signal Processing. 2023. Vol.192:110216. [DOI](https://doi.org/10.1016/j.ymssp.2023.110216) [PDF](https://liaiusc.github.io/files/TL.pdf)
 
 1. **L Ai**; M Bayat; P Ziehl. *Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*. Measurement. 2023. Vol.211:112659. [DOI](https://doi.org/10.1016/j.measurement.2023.112659) [PDF](https://liaiusc.github.io/files/fusion.pdf) 
+
+1. **L Ai**; S Flowers; T Mesaric; B Henderson; S Houck; P Ziehl. *Acoustic Emission-Based Detection of Impacts on Thermoplastic Aircraft Control Surfaces: A Preliminary Study*. Applied Sciences. 2023. Vol.13:6573.[DOI](https://doi.org/10.3390/app13116573) [PDF](https://liaiusc.github.io/files/applsci-13-06573.pdf) 
 
 1. Laxman K C; N Tabassum; **L Ai (corresponding)**; C Cole; P Ziehl. *Automated Crack Detection and Crack Depth Prediction for Reinforced Concrete Structures using Deep Learning*. Construction and Building Materials. 2023. Vol.370:130709. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.130709) [PDF](https://liaiusc.github.io/files/Drone.pdf) 
 
