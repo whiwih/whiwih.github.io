@@ -63,7 +63,7 @@ Refereed Journal Publications
 Referred Conference Proceedings
 ------
 
-1. **L Ai**; B Henderson; S Houck; S Dickson; P Ziehl. *Identifying the Energy of Low-velocity Impacts on Composite Components Using Acoustic Emission*. 2023 IEEE Aerospace Conference. 2023 Mar 4. [DOI](TBD) [PDF](TBD)
+1. **L Ai**; B Henderson; S Houck; S Dickson; P Ziehl. *Identifying the Energy of Low-velocity Impacts on Composite Components Using Acoustic Emission*. 2023 IEEE Aerospace Conference. 2023 Mar 4. [DOI](https://doi.org/10.1109/AERO55745.2023.10116008) [PDF](TBD)
 
 1. **L Ai**; E Elbatanouny; Laxman K C; M Bayat; V Soltangharaei; M van Tooren; P Ziehl. *Detection and Evaluation of Impact Damage on Aircraft Control Surface Using Acoustic Emission and Convolution Neural Network*. The 13th International Workshop on Structural Health Monitoring (IWSHM 2021). [DOI](https://doi.org/10.12783/shm2021/36329) [PDF](https://liaiusc.github.io/files/IWSHM-air.pdf)
 
