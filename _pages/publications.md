@@ -16,7 +16,7 @@ In Preparation
 
 1. Xiaoqun Yan; Huaizhi Su; **Li Ai**. *Self-supervised Learning Framework for Fracture Damage Assessment of Hydraulic Concrete Based on Acoustic Emission Signals*. Target Journal: [TBD](TBD), in preparation.
 
-1. Xiaoqun Yan; Huaizhi Su; **Li Ai**. *Estimation of Cracking and Damage Mechanisms in Hydraulic Concrete under Three-point Bending by Moment Tensor Analysis of Acoustic Emission. Target Journal: [TBD](TBD), in preparation.
+1. Xiaoqun Yan; Huaizhi Su; **Li Ai**. *Estimation of Cracking and Damage Mechanisms in Hydraulic Concrete under Three-point Bending by Moment Tensor Analysis of Acoustic Emission*. Target Journal: [TBD](TBD), in preparation.
 
 1. Xiaoqun Yan; Huaizhi Su; **Li Ai**. *Numerical Simulation Method of Acoustic Emission for Hydraulic Concrete Failure Considering Material Heterogeneity*. Target Journal: [TBD](TBD), in preparation.
 
