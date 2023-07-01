@@ -36,11 +36,12 @@ Awards and Honors
 Professional Services 
 ------
 * Editorial board:
-   * *Practice Periodical on Structural Design and Construction-ASCE*, associate editor
-   * *Frontiers in Aerospace*, review editor
-   * *Journal of Engineered Fibers and Fabrics*, special issue topic: Sustainable Fiber Reinforced Cementitious Composites [Link](https://journals.sagepub.com/page/jef/open-special-collections/sustainable-fiber-reinforced-cementitious-composites).
-   * *Materials*, special issue topic: Innovative Material Design and Nondestructive Testing Applications for Infrastructure Materials [Link](https://www.mdpi.com/journal/materials/special_issues/6UFRF89J27).
-   * *Coatings*, special issue topic: Surface Engineering and Mechanical Properties of Building Materials [Link](https://www.mdpi.com/journal/coatings/special_issues/Building_Mechanical).
+   * Associate Editor, *Practice Periodical on Structural Design and Construction-ASCE*
+   * Early Career Editorial Board, *Journal of Intelligent Construction*
+   * Review Editor, *Frontiers in Aerospace*
+   * Guest Editor, *Journal of Engineered Fibers and Fabrics*
+   * Guest Editor, *Materials*
+   * Guest Editor, *Coatings*
 
 
 * Reviewer: 
