@@ -8,8 +8,6 @@ The data and codes which are not publicly released might be available upon reque
 In Preparation
 ------
 
-1. **L Ai**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Rehabilitation of Timber Piles Using FRP: A Study of Acoustic Emission Characteristics Under Uniaxial Compression*. Target Journal: [TBD](TBD), in preparation.
-
 1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Target Journal: [TBD](TBD), in preparation.
 
 1. **L Ai**; E Elbatanouny; Laxman K C; S Houck; B Henderson; P Ziehl. *Rapid Localization for Low-velocity Impacts of Composite Plates Using Acoustic Emission Sensor*. Target Journal: [TBD](TBD), in preparation.
@@ -23,19 +21,21 @@ In Preparation
 Under Review
 ------
 
-1. **L Ai**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Composites Part B: Engineering. [under review](under review)
+1. **L Ai**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Rehabilitation of Timber Piles Using FRP: A Study of Acoustic Emission Characteristics Under Uniaxial Compression*. Construction and Building Materials. [under review](under review)
 
-1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Construction and Building Materials. [under review](under review)
+1. **L Ai**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Expert Systems with Applications. [under review](under review)
 
-1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (corresponding)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Engineering Structures. [under review](under review)
+1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Measurement. [under review](under review)
 
-1. E Elbatanouny; **L Ai (corresponding)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Structures. [under review](under review)
+1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (corresponding)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Construction and Building Materials. [under review](under review)
+
+1. E Elbatanouny; **L Ai (corresponding)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Practice Periodical on Structural Design and Construction-ASCE. [under review](under review)
 
 1. X Yan; H Su; **L Ai**; V Soltangharaei; X Xu; K Yao. *Study on Stage Characteristics of Hydraulic Concrete Fracture Under Uniaxial Compression Using Acoustic Emission*. International Journal of Solids and Structures. [under review](under review)
 
 1. E Elbatanouny; **L Ai (corresponding)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Construction and Building Materials. [under review](under review)
 
-1. H He; S E; **L Ai**; X Wang; J Yao; B Cheng; C He. *Exploiting machine learning for controlled synthesis of carbon dots-based corrosion inhibitors*. Green Chemistry. [under review](under review)
+1. H He; S E; **L Ai**; X Wang; J Yao; B Cheng; C He. *Exploiting machine learning for controlled synthesis of carbon dots-based corrosion inhibitors*. Journal of Cleaner Production. [under review](under review)
 
 Refereed Journal Publications 
 ------
