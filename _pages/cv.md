@@ -39,6 +39,7 @@ Professional Services
    * Associate Editor, *Practice Periodical on Structural Design and Construction-ASCE*
    * Early Career Editorial Board, *Journal of Intelligent Construction*
    * Review Editor, *Frontiers in Aerospace*
+   * Guest Editor, *Measurement Science and Technology*
    * Guest Editor, *Journal of Engineered Fibers and Fabrics*
    * Guest Editor, *Materials*
    * Guest Editor, *Coatings*
