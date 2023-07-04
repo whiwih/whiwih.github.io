@@ -7,6 +7,18 @@ author_profile: true
 
 This page contains recent calls for papers, chapters, and other contributions where I am serving as an Editor/Guest Editor:
 
+**1. Special issue: Measurement Science and Technology (IF=2.4)**
+------
+<p align="left">
+  <img src="https://liaiusc.github.io/images/WeChat Image_20230704023601.png?raw=true" alt="Photo" style="width: 200px;"/> 
+</p>
+Topic: [AI-Driven Measurement Methods for Resilient Infrastructure and Communities](https://iopscience.iop.org/collections/mst-230626-269). Research areas may include (but are not limited to) the following:
+   * The development and application of novel techniques and technologies for structural health monitoring
+   * Novel strategies and methodologies in damage diagnosis of infrastructures and successful applications
+   * The use of advanced data analysis and artificial intelligence in assessing and maintaining infrastructure, predicting future trends, and making informed decisions
+   * Successful integration of these areas in real-world scenarios, such as oil and gas, mining, or civil infrastructure
+
+Submission deadline: June 1, 2024
 
 **1. Special issue: Journal of Engineered Fibers and Fabrics (IF=2.00)**
 ------
@@ -20,7 +32,7 @@ Topic: [Sustainable Fiber Reinforced Cementitious Composites](https://journals.s
    * Artificial Intelligence/computational modeling techniques for sustainable fiber-reinforced materials
    * Structural application of sustainable fiber-reinforced composites
 
-Submission deadline: August 8, 2023
+Submission deadline: February 8, 2024
 
 
 **2. Special issue: materials (IF=3.748)** 
