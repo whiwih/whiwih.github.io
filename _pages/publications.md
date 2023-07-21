@@ -35,10 +35,10 @@ Under Review
 
 1. E Elbatanouny; **L Ai (corresponding)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Construction and Building Materials. [under review](under review)
 
-1. H He; S E; **L Ai**; X Wang; J Yao; B Cheng; C He. *Exploiting machine learning for controlled synthesis of carbon dots-based corrosion inhibitors*. Journal of Cleaner Production. [under review](under review)
 
 Refereed Journal Publications 
 ------
+1. H He; S E; **L Ai**; X Wang; J Yao; B Cheng; C He. *Exploiting machine learning for controlled synthesis of carbon dots-based corrosion inhibitors*. Journal of Cleaner Production. [Accepted](Accepted)
 
 1. **L Ai**; B Zhang; P Ziehl. *A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*. Mechanical Systems and Signal Processing. 2023. Vol.192:110216. [DOI](https://doi.org/10.1016/j.ymssp.2023.110216) [PDF](https://liaiusc.github.io/files/TL.pdf)
 
