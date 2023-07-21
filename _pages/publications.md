@@ -16,7 +16,7 @@ In Preparation
 
 1. X Yan; H Su; **L Ai**. *Estimation of Cracking and Damage Mechanisms in Hydraulic Concrete under Three-point Bending by Moment Tensor Analysis of Acoustic Emission*. Target Journal: [TBD](TBD), in preparation.
 
-1. Xi Yan; H Su; **L Ai**. *Numerical Simulation Method of Acoustic Emission for Hydraulic Concrete Failure Considering Material Heterogeneity*. Target Journal: [TBD](TBD), in preparation.
+1. X Yan; H Su; **L Ai**. *Numerical Simulation Method of Acoustic Emission for Hydraulic Concrete Failure Considering Material Heterogeneity*. Target Journal: [TBD](TBD), in preparation.
 
 Under Review
 ------
