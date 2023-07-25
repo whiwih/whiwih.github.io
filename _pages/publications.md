@@ -38,7 +38,7 @@ Under Review
 
 Refereed Journal Publications 
 ------
-1. H He; S E; **L Ai**; X Wang; J Yao; B Cheng; C He. *Exploiting Machine Learning for Controlled Synthesis of Carbon Dots-based Corrosion Inhibitors*. Journal of Cleaner Production. [DOI](https://doi.org/10.1016/j.jclepro.2023.138210) [PDF](https://liaiusc.github.io/files/1-s2.0-S0959652623023685-main.pdf)
+1. H He; S E; **L Ai**; X Wang; J Yao; B Cheng; C He. *Exploiting Machine Learning for Controlled Synthesis of Carbon Dots-based Corrosion Inhibitors*. Journal of Cleaner Production. 2023. Vol.418:138210. [DOI](https://doi.org/10.1016/j.jclepro.2023.138210) [PDF](https://liaiusc.github.io/files/1-s2.0-S0959652623023685-main.pdf)
 
 1. **L Ai**; B Zhang; P Ziehl. *A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*. Mechanical Systems and Signal Processing. 2023. Vol.192:110216. [DOI](https://doi.org/10.1016/j.ymssp.2023.110216) [PDF](https://liaiusc.github.io/files/TL.pdf)
 
