@@ -18,6 +18,8 @@ In Preparation
 
 1. X Yan; H Su; **L Ai**. *Numerical Simulation Method of Acoustic Emission for Hydraulic Concrete Failure Considering Material Heterogeneity*. Target Journal: [TBD](TBD), in preparation.
 
+1. C Wu; Y Hu; S Zhou; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Target Journal: [TBD](TBD), in preparation.
+
 Under Review
 ------
 
@@ -34,6 +36,8 @@ Under Review
 1. X Yan; H Su; **L Ai**; V Soltangharaei; X Xu; K Yao. *Study on Stage Characteristics of Hydraulic Concrete Fracture Under Uniaxial Compression Using Acoustic Emission*. Nondestructive Testing and Evaluation. [under review](under review)
 
 1. E Elbatanouny; **L Ai (corresponding)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Construction and Building Materials. [under review](under review)
+
+1. Y Wu; F Meng; Y Qin*; Y Qian*; Z Liu; **L Ai**; Y Geng; W Zhao; L Jia. *Automatic Anomaly Detection for Split Pins in High-speed Railroad Catenary Using Supervised and Unsupervised Learning*. Construction and Building Materials. [under review](under review)
 
 
 Refereed Journal Publications 
