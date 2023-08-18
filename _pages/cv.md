@@ -20,7 +20,8 @@ Education
 
 Employment History 
 ------
-* Postdoctoral Fellow, University of South Carolina, September 2021 - Present 
+* Research Assistant Professor, University of South Carolina, Aug 2023 - Present 
+* Postdoctoral Fellow, University of South Carolina, September 2021 - Aug 2023
 * Graduate Research Assistant, University of South Carolina, January 2017 - August 2021 
 * Research Teaching Assistant, Stevens Institute of Technology, August 2016 - December 2016 
 
