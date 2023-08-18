@@ -36,8 +36,6 @@ Under Review
 
 1. E Elbatanouny; **L Ai (corresponding)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Construction and Building Materials. [under review](under review)
 
-1. Y Wu; F Meng; Y Qin*; Y Qian*; Z Liu; **L Ai**; Y Geng; W Zhao; L Jia. *Automatic Anomaly Detection for Split Pins in High-speed Railroad Catenary Using Supervised and Unsupervised Learning*. Construction and Building Materials. [under review](under review)
-
 1. S Zhou; C Wu; Y Hu; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Journal of Engineered Fibers and Fabrics. [under review](under review)
 
 
