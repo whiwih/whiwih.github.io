@@ -22,13 +22,13 @@ In Preparation
 Under Review
 ------
 
-1. **L Ai**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Rehabilitation of Timber Piles Using FRP: A Study of Acoustic Emission Characteristics Under Uniaxial Compression*. Construction and Building Materials. [under review](under review)
+1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Rehabilitation of Timber Piles Using FRP: A Study of Acoustic Emission Characteristics Under Uniaxial Compression*. Construction and Building Materials. [under review](under review)
 
-1. **L Ai**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Expert Systems with Applications. [under review](under review)
+1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Expert Systems with Applications. [under review](under review)
 
 1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Measurement. [under review](under review)
 
-1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (corresponding)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Construction and Building Materials. [under review](under review)
+1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (✉)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Construction and Building Materials. [under review](under review)
 
 1. E Elbatanouny; **L Ai (✉)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Practice Periodical on Structural Design and Construction-ASCE. [under review](under review)
 
