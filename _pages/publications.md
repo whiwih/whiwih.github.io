@@ -39,7 +39,7 @@ Under Review
 
 Refereed Journal Publications 
 ------
-1. X Yan; H Su; **L Ai**; V Soltangharaei; X Xu; K Yao. *Study on Stage Characteristics of Hydraulic Concrete Fracture Under Uniaxial Compression Using Acoustic Emission*. Nondestructive Testing and Evaluation. [In press](In press)
+1. X Yan; H Su; **L Ai**; V Soltangharaei; X Xu; K Yao. *Study on Stage Characteristics of Hydraulic Concrete Fracture Under Uniaxial Compression Using Acoustic Emission*. Nondestructive Testing and Evaluation. [DOI](https://doi.org/10.1080/10589759.2023.2255362) 
 
 1. H He; S E; **L Ai**; X Wang; J Yao; B Cheng; C He. *Exploiting Machine Learning for Controlled Synthesis of Carbon Dots-based Corrosion Inhibitors*. Journal of Cleaner Production. 2023. Vol.419:138210. [DOI](https://doi.org/10.1016/j.jclepro.2023.138210) [PDF](https://liaiusc.github.io/files/1-s2.0-S0959652623023685-main.pdf)
 
