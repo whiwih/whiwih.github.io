@@ -22,7 +22,7 @@ In Preparation
 Under Review
 ------
 
-1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Rehabilitation of Timber Piles Using FRP: A Study of Acoustic Emission Characteristics Under Uniaxial Compression*. Construction and Building Materials. [under review](under review)
+1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. [under review](under review)
 
 1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Expert Systems with Applications. [under review](under review)
 
