@@ -7,6 +7,21 @@ author_profile: true
 
 This page contains recent calls for papers, chapters, and other contributions where I am serving as an Editor/Guest Editor:
 
+**1. Special issue: Journal of Intelligent Construction**
+------
+<p align="left">
+  <img src="https://liaiusc.github.io/images/JIC.png?raw=true" alt="Photo" style="width: 200px;"/> 
+</p>
+Topic: [Advancements in Structural Health Monitoring and Condition Assessment for Intelligent Urban Lifelines](https://www.sciopen.com/journal/2958-3861). Research areas may include (but are not limited to) the following:
+   * Condition assessment and real-time monitoring for pipelines, sewer lines, and urban underground pipe gallery
+   * Structural health monitoring and condition assessment of road, railway, bridge, tunnel, and subway networks
+   * Distributed fiber optic sensors, non-destructive techniques, MEMS, drones, and robots for infrastructure evaluation
+   * Machine learning-based multi-sensor data fusion in urban lifeline monitoring and risk management
+   * Detection, evaluation, and differentiation of urban lifeline interactive anomalies
+   * Accelerated/Intelligent construction and predictive maintenance of urban lifelines
+      
+Submission deadline: June 1, 2024
+
 **1. Special issue: Measurement Science and Technology (IF=2.4)**
 ------
 <p align="left">
