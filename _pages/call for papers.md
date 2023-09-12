@@ -20,7 +20,7 @@ Topic: [Advancements in Structural Health Monitoring and Condition Assessment fo
    * Detection, evaluation, and differentiation of urban lifeline interactive anomalies
    * Accelerated/Intelligent construction and predictive maintenance of urban lifelines
       
-Submission deadline: June 1, 2024
+Submission deadline: December 31, 2024
 
 **1. Special issue: Measurement Science and Technology (IF=2.4)**
 ------
