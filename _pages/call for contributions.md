@@ -1,6 +1,6 @@
 ---
-title: "Call for Contributions"
-permalink: /call for contributions/
+title: "Call for papers"
+permalink: /call for papers/
 author_profile: true
 ---
 
