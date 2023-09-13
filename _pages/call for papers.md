@@ -12,7 +12,7 @@ This page contains recent calls for papers, chapters, and other contributions wh
 <p align="left">
   <img src="https://liaiusc.github.io/images/JIC.png?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
-Topic: [Advancements in Structural Health Monitoring and Condition Assessment for Intelligent Urban Lifelines](https://www.sciopen.com/journal/2958-3861). Research areas may include (but are not limited to) the following:
+Topic: [Advancements in Structural Health Monitoring and Condition Assessment for Intelligent Urban Lifelines](https://www.sciopen.com/journal/message_news/get_by_id?id=1701779206806450177&issn=2958-3861). Research areas may include (but are not limited to) the following:
    * Condition assessment and real-time monitoring for pipelines, sewer lines, and urban underground pipe gallery
    * Structural health monitoring and condition assessment of road, railway, bridge, tunnel, and subway networks
    * Distributed fiber optic sensors, non-destructive techniques, MEMS, drones, and robots for infrastructure evaluation
