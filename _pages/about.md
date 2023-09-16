@@ -19,18 +19,21 @@ Research interests
 My research interests include:
 - Nondestructive testing (NDT)
 - Structural health monitoring (SHM)
-- Acoustic emission (AE) 
+- Acoustic emission (AE)
+- structure strengthening and rehabilitation
+- Bridge load rating
 - AI for science/engineering
 - Cyber-physical systems
 - Digital twins. 
 
 My recent works include: 
+- Digital twin for concrete bridges
+- Cost-effective strengthening methods of bridge slab/girder 
 - AE source localization using deep learning 
 - Transfer learning framework combining finite element simulation and domain adaptation
 - Real-time AE monitoring system for alkali-silicate reaction (ASR) damage in concrete
 - AE monitoring method applied to stress corrosion cracking in nuclear spent fuel storage systems
 - Low-velocity impact monitoring framework for urban air mobility
-- Digital twin for concrete bridges.
 
 Recent News
 ------
