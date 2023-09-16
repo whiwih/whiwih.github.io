@@ -6,7 +6,7 @@ author_profile: true
 
 ## Rehabilitation of Timber Piles Using Fiber Reinforced Polymer
 <p align="center">
-  <img src="https://liaiusc.github.io/images/Timber.png?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://liaiusc.github.io/images/Timber.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 Relate publications:
 1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. [under review](under review) 
