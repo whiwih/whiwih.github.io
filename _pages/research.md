@@ -13,7 +13,7 @@ Relate publications:
 
 ## Cost-effective Strengthening Methods of Bridge Slab/Girder
 <p align="center">
-  <img src="https://liaiusc.github.io/images/Slab.png?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://liaiusc.github.io/images/Slab.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 Relate publications:
 1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Target Journal: [TBD](TBD), in preparation.
