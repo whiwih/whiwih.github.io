@@ -55,7 +55,7 @@ Relate publications:
   <img src="https://liaiusc.github.io/images/single sensor.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 Relate publications:
-1. **L Ai**; M Bayat; P Ziehl. *Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*, Measurement. 2023. Vol.211:112695. [DOI](TBD) 
+1. **L Ai**; M Bayat; P Ziehl. *Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*, Measurement. 2023. Vol.211:112695. [DOI](https://doi.org/10.1016/j.measurement.2023.112659) 
 1. **L Ai**; V Soltangharaei; M Bayat; B Greer; P Ziehl. *Source Localization on Large-Scale Canisters for Used Nuclear Fuel Storage Using Optimal Number of Acoustic Emission Sensors*, Nuclear Engineering and Design. 2021. Vol.375:111097. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111097)
 
 ## Online Monitoring System for Concrete Structures Affected by Alkali-Silica Reaction
