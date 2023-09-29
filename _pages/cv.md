@@ -38,24 +38,33 @@ Professional Services
 ------
 * Editorial board:
    * Associate Editor, *Practice Periodical on Structural Design and Construction-ASCE*
-   * Early Career Editorial Board, *Journal of Intelligent Construction*
-   * Review Editor, *Frontiers in Aerospace*
+   * Youth editorial board, *Journal of Intelligent Construction*
+   * Young academic editor, *Journal of Traffic and Transportation Engineering*
+   * Editorial board, *Frontiers in Aerospace*
    * Guest Editor, *Measurement Science and Technology*
+   * Guest Editor, *Journal of Intelligent Construction*
    * Guest Editor, *Journal of Engineered Fibers and Fabrics*
    * Guest Editor, *Materials*
    * Guest Editor, *Coatings*
-
 
 * Reviewer: 
    * *Practice Periodical on Structural Design and Construction-ASCE*
    * *Structural Health Monitoring-SAGE*
    * *Construction and Building Materials*
-   * *Engineering Structures*
+   * *IEEE Sensor Journal*
+   * *Expert System with Applications*
    * *Neurocomputing*
+   * *Engineering Structures*
+   * *Structures*
    * *Structural Concrete*
+   * *Probabilistic Engineering Mechanics*
    * *Transportation Research Record*
    * *Transportation Research Board Annual Meeting*
    * *Journal of Supercomputing*
    * *Journal of Materials in Civil Engineering-ASCE*
    * *Journal of Applied Science and Engineering*
+
+
+
+
 
