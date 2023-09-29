@@ -48,16 +48,9 @@ Professional Services
    * Guest Editor, *Coatings*
  
 * Member:
-   * Member of ASCE
-   * Youth Editorial Board, *Journal of Intelligent Construction*
-   * Young Academic Editor, *Journal of Traffic and Transportation Engineering*
-   * Editorial Board, *Frontiers in Aerospace*
-   * Guest Editor, *Measurement Science and Technology*
-   * Guest Editor, *Journal of Intelligent Construction*
-   * Guest Editor, *Journal of Engineered Fibers and Fabrics*
-   * Guest Editor, *Materials*
-   * Guest Editor, *Coatings*
-
+   * Member of American Society of Civil Engineers (ASCE)
+   * Member of Acoustic Emission Working Group (AEWG)
+ 
 * Reviewer: 
    * *Practice Periodical on Structural Design and Construction-ASCE*
    * *Structural Health Monitoring-SAGE*
