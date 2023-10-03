@@ -17,7 +17,7 @@ Relate publications:
 </p>
 Relate publications:
 1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Target Journal: [TBD](TBD), in preparation.
-1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (✉)**; B Ross; T Cousins; P Ziehl. *Cost-effective Methods for Flexural Strengthening of One-way RC Precast Flat Slab Bridges in South Carolina*. Construction and Building Materials. [accepted, in press](accepted, in press)
+1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (✉)**; B Ross; T Cousins; P Ziehl. *Cost-effective Methods for Flexural Strengthening of One-way RC Precast Flat Slab Bridges in South Carolina*. Construction and Building Materials. 2023. [accepted, in press](accepted, in press)
 1. Laxman K C; A Ross; **L Ai (✉)**; A Henderson; E Elbatanouny; M Bayat; P Ziehl. *Determination of Vehicle Loads on Bridges by Acoustic Emission and an Improved Ensembled Artificial Neural Network*, Construction and Building Materials. 2023. Vol.364:129844. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129844) 
 
 ## In-flight Health Monitoring and Assessment System for Aircraft Components
