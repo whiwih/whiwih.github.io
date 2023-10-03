@@ -35,7 +35,7 @@ Under Review
 
 Pubulished Journal Articles 
 ------
-1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (✉)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Construction and Building Materials. [accpeted, in press](accpeted, in press)
+1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (✉)**; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Construction and Building Materials. [accpeted, in press](accpeted, in press)
 
 1. E Elbatanouny; **L Ai (✉)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Practice Periodical on Structural Design and Construction-ASCE. [accpeted, in press](accpeted, in press)
 
