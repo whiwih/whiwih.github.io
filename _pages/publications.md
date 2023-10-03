@@ -28,17 +28,17 @@ Under Review
 
 1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Developments in the Built Environment. [under review](under review)
 
-1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (✉)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Construction and Building Materials. [under review](under review)
-
-1. E Elbatanouny; **L Ai (✉)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Practice Periodical on Structural Design and Construction-ASCE. [under review](under review)
-
 1. E Elbatanouny; **L Ai (✉)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Construction and Building Materials. [under review](under review)
 
 1. S Zhou; C Wu; Y Hu; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Journal of Engineered Fibers and Fabrics. [under review](under review)
 
 
-Refereed Journal Publications 
+Pubulished Journal Publications 
 ------
+1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (✉)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Construction and Building Materials. [accpeted, in press](accpeted, in press)
+
+1. E Elbatanouny; **L Ai (✉)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Practice Periodical on Structural Design and Construction-ASCE. [accpeted, in press](accpeted, in press)
+
 1. X Yan; H Su; **L Ai**; V Soltangharaei; X Xu; K Yao. *Study on Stage Characteristics of Hydraulic Concrete Fracture Under Uniaxial Compression Using Acoustic Emission*. Nondestructive Testing and Evaluation. 2023. PP. 1-30. [DOI](https://doi.org/10.1080/10589759.2023.2255362) 
 
 1. H He; S E; **L Ai**; X Wang; J Yao; B Cheng; C He. *Exploiting Machine Learning for Controlled Synthesis of Carbon Dots-based Corrosion Inhibitors*. Journal of Cleaner Production. 2023. Vol.419:138210. [DOI](https://doi.org/10.1016/j.jclepro.2023.138210) [PDF](https://liaiusc.github.io/files/1-s2.0-S0959652623023685-main.pdf)
@@ -69,7 +69,7 @@ Refereed Journal Publications
 
 1. V Soltangharaei; JW Hill; **L Ai**; R Anay; B Greer; M Bayat; P Ziehl. *Acoustic Emission Technique to Identify Stress Corrosion Cracking Damage*. Structural Engineering and Mechanics. 2020. Vol.75:723-736. [DOI](https://doi.org/10.12989/sem.2020.75.6.723) [PDF](https://liaiusc.github.io/files/vafa scc.pdf)
 
-Referred Conference Proceedings
+Pubulished Conference Proceedings
 ------
 
 1. **L Ai**; B Henderson; S Houck; S Dickson; P Ziehl. *Identifying the Energy of Low-velocity Impacts on Composite Components Using Acoustic Emission*. 2023 IEEE Aerospace Conference. 2023 Mar 4. [DOI](https://doi.org/10.1109/AERO55745.2023.10116008) [PDF](TBD)
