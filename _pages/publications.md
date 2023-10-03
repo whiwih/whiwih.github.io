@@ -33,7 +33,7 @@ Under Review
 1. S Zhou; C Wu; Y Hu; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Journal of Engineered Fibers and Fabrics. [under review](under review)
 
 
-Pubulished Journal Publications 
+Pubulished Journal Articles 
 ------
 1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (✉)**; M Bayat; B Ross; T Cousins; P Ziehl. *Flexural Strengthening of One-way RC Precast Flat Slabs Using Steel Sections on Top of the Slab*. Construction and Building Materials. [accpeted, in press](accpeted, in press)
 
