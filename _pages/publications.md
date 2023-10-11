@@ -35,10 +35,10 @@ Under Review
 1. Y Shi; J Li; X Lv; **L Ai**; X Tan; C Wu. *Research and Application of Feeding-hoisting Equipment for Sealing Leakage in Concentrated Inlets of Earth-rock Dams*. Practice Periodical on Structural Design and Construction-ASCE. [under review](under review)
 
 Pubulished Journal Articles 
-------
-1. Laxman K C; A Henderson; E Elbatanouny; A Ross; **L Ai (✉)**; B Ross; T Cousins; P Ziehl. *Cost-effective Methods for Flexural Strengthening of One-way RC Precast Flat Slab Bridges in South Carolina*. Construction and Building Materials. 2023. [accpeted, in press](accpeted, in press)
-
+------  
 1. E Elbatanouny; **L Ai (✉)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Practice Periodical on Structural Design and Construction-ASCE. 2023. [accpeted, in press](accpeted, in press)
+
+1. Laxman K C; A Henderson; E Elbatanouny; **L Ai (✉)**; B Ross; T Cousins; P Ziehl. *Cost-effective Methods for Flexural Strengthening of One-way RC Precast Flat Slab Bridges in South Carolina*. Construction and Building Materials. 2023. Vol.408: 133675. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.133675)
 
 1. X Yan; H Su; **L Ai**; V Soltangharaei; X Xu; K Yao. *Study on Stage Characteristics of Hydraulic Concrete Fracture Under Uniaxial Compression Using Acoustic Emission*. Nondestructive Testing and Evaluation. 2023. PP. 1-30. [DOI](https://doi.org/10.1080/10589759.2023.2255362) 
 
