@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yan Zhe, PhD"
   avatar           : "yz.png"
-  bio              : "Shanghai Institute of Technical Physics Chinese Academy of Sciences\nEmail:yanzhe@mail.sitp.ac.cn\n500 Yutian Road, Shanghai, China, 200083"
+  bio              : "Shanghai Institute of Technical Physics Chinese Academy of Sciences\n\nEmail:yanzhe@mail.sitp.ac.cn\n\nLocation500 Yutian Road, Shanghai, China, 200083"
   location         :
   employer         : 
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=5v-mgPgAAAAJ&hl=en"
-  email            : "yanzhe@mail.sitp.ac.cn"
+  email            : 
   researchgate     : 
   uri              :
   bitbucket        :
