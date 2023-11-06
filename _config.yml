@@ -39,15 +39,15 @@ staticman:
   moderation             : true
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name','email','message']
-  #transforms:
-    #email                : "md5"
+  transforms:
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-#atom_feed:
-  #path                   : # blank (default) uses feed.xml
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yan Zhe, PhD"
   avatar           : "yz.png"
-  bio              : "Shanghai Institute of Technical Physics Chinese Academy of Sciences"
+  bio              : "Shanghai Institute of Technical Physics Chinese Academy of Sciences|Email:yanzhe@mail.sitp.ac.cn"
   location         : "500 Yutian Road,Shanghai, China"
   employer         : 
   pubmed           : 
