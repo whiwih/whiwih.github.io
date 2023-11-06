@@ -47,14 +47,14 @@ Awards and Honors
 
 Publications (\*corresponding author)
 ------
-- *In Preparation (First or Corresponding Author)*
+- **In Preparation (First or Corresponding Author)**
     1.	Zhe Yan, Zhenhua Jiang\*, Yinong Wu, Baoyu Yang, Zhenhai Pan\*. On coalescence of bubble in branching microchannel with phase change. (Submitted to Journal of Fluid Mechanics)
     2.	Haoxiang Huang, Zhenhai Pan, Zhe Yan\*, Yulu Liu\*. Bubble dynamics and phase change heat transfer in a microchannel with a heated cylinder. (Submitted to International Journal of Heat and Mass Transfer)
     3.	Numerical study on the boiling flow and heat transfer performance for the minichannel evaporator (In preparation for Applied Thermal Engineering)
     4.	Study on the bubble rising and passing through the confined hole in the stagnant fluid (In preparation for Physics of Fluids)
     5.	Bubble rising dynamics in the stagnant fluid with different configurations of confined hole (In preparation for International Journal of Multiphase Flow)
 
-- *Published Journal Articles*
+- **Published Journal Articles**
     1.	Yang Liu, Zhe Yan\*, Zhenhua Jiang, Nanxi Li, Baoyu Yang, Yinong Wu\*. Experimental study on the small two-phase thermosyphon loop with minichannel evaporator, ASME-Journal of Thermal Science and Engineering Applications, online.
     2.	Zhe Yan, Haoxiang Huang, Zhenhai Pan\*. Bubble breakup and boiling heat transfer in Y-shaped bifurcating microchannels, AIChE Journal, 2023, 69(2), e17836.
     3.	Zhe Yan, Haoxiang Huang, Shanshan Li, Wei Wang, Zhenhai Pan\*. Three-dimensional numerical investigation on flow boiling in T-junction microchannel. Chemical Engineering Science, 2022, 250, 117375.
@@ -74,7 +74,7 @@ Publications (\*corresponding author)
     17.	Zhe Yan, Yan Li\*. Unsteady numerical simulation of refrigerated container. Building Energy & Environment, 2018, 37(7), 50-54. (In Chinese)
     18.	Yan Li\*, Zhe Yan, Chao Yang, Bin Guo, Han Yuan, Jian Zhao, Ning Mei. Study of a coil heat exchanger with an ice storage system. Energies, 2017, 10, 1982.
 
-- *Published Conference Proceedings*
+- **Published Conference Proceedings**
     1.	Zhe Yan, Nanxi Li, Bingyao Lin, Yang Liu, Zhenhua Jiang*, Baoyu Yang, Yinong Wu*. Study on the boiling heat transfer characteristics for the pump driving minichannel evaporator. Proceedings of the first meeting for Space Science Experiments, Chinese Society of Astronautics, 2023, Beijing. (In Chinese)
     2.	Yang Liu, Zhenhua Jiang, Zhe Yan*, Nanxi Li, Bingyao Lin, Yinong Wu*. The small two-phase thermosyphon loop with minichannel evaporator - an experimental investigation. Proceedings of the 2023 Chinese Society of Engineering Thermophysics Meeting, 2023, Chengdu. (In Chinese)
     3.	Zhe Yan, Haoxiang Huang, Zhenhai Pan*. Flow structures and bubble dynamics within the heated microfluidic Y-junctions. Flow Visualization Session, ASME 2022 Fluids Engineering Division Summer Meeting, 2022, Toronto, Canada. (Virtual, online)
@@ -83,7 +83,7 @@ Publications (\*corresponding author)
     6.	Zhe Yan, Yan Li*, Han Yuan, Ning Mei. Simualtion on the droplet impact on solid surface with micro-scale rectangular grooves. Proceedings of the 2017 Chinese Society of Engineering Thermophysics Meeting, 2017, Suzhou. (In Chinese)
     7.	Zhe Yan, Jian Zhao, Chuan Li, Weihong Zhang, Yan Li*, Ning Mei. Numerical simulation research of the droplet impact on different solid surface, Proceedings of the 23th Meeting for Engineering Thermophysics of Colleges and Universities, 2017, Chengdu. (In Chinese)
 
-- *Authorized China patents*
+- **Authorized China patents**
     1.	A new type of separated heat dissipation device. Application number: 202220281036.1
     2.	An intelligent phase-change cooling device and its cooling method. Application number: 202011374788.4
     3.	A new type of phase-change cooling system based on the rib columns and its cooling method. Application number: 202010820603.1
