@@ -38,7 +38,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -83,7 +83,8 @@ author:
   name             : "Yan Zhe, PhD"
   avatar           : "yz.png"
   bio              : "Shanghai Institute of Technical Physics Chinese Academy of Sciences"
-  location         : "500 Yutian Road, Shanghai, China, 200083"
+  location         : "500 Yutian Road, 
+                      Shanghai, China, 200083"
   employer         : 
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=5v-mgPgAAAAJ&hl=en"
