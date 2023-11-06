@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hey, there! My name is Yan Zhe.I am an assistant professor in the [Shanghai Institute of Technical Physics, Chinese Academy of Sciences](http://www.sitp.ac.cn/). I am also the Hong Kong Scholar in the [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). I received my Ph.D. from the [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
+Hey, there! My name is Yan Zhe.I am an assistant professor in the [Shanghai Institute of Technical Physics, Chinese Academy of Sciences](http://www.sitp.ac.cn/). I am also the Hong Kong Scholar in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). I received my Ph.D. from the [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
 
 
 Research interests
