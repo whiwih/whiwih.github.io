@@ -14,9 +14,12 @@ Hey, there! My name is Yan Zhe.I am an assistant professor in the [Shanghai Inst
 
 Research interests
 ------
-- Bubble dynamics and boiling heat transfer in microchannels
-- High-efficiency cooling technique for electronic devices
-- Design of microfluidic system
+- High-performance and energy-saving cooling techniques for electronic devices
+- Two-phase flow and boiling heat transfer in microchannels
+- Bubble dynamics and design of microfluidic systems
+- Fundamental transport process and engineering applications of thermosyphons
+- Droplet impact dynamics on structured surface
+- Advanced additive manufacturing and their application in heat transfer enhancement
 
 
 
@@ -29,7 +32,7 @@ Eduation
 
 Employment History
 ------
-- Hong Kong Scholar, The Chinese University of Hong Kong, Dec., 2023 - Dec., 2025
+- Hong Kong Scholar, The Chinese University of Hong Kong, Dec., 2023 - present
 - Assistant Professor, Shanghai Institute of Technical Physics Chinese Academy of Sciences., Oct., 2022 - present
 - Senior R&D Engineer of Microfluidics and Thermal Management, Nantong Huixian Chip Development Technology Co., Ltd., Nov., 2019 - Sept., 2022
 - Deputy director of testing department, Qingdao Energy Conservation Technology Center of Ocean University Co., Ltd., Nov., 2015 - May, 2018
