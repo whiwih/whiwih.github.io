@@ -36,7 +36,6 @@ Employment History
 - Senior R&D Engineer of Microfluidics and Thermal Management, Nantong Huixian Chip Development Technology Co., Ltd., Nov., 2019 - Sept., 2022
 - Deputy director of testing department, Qingdao Energy Conservation Technology Center of Ocean University Co., Ltd., Nov., 2015 - May, 2018
 
-
 Awards and Honors
 ------
 - Hong Kong Scholar Award (The first one in the SITP, CAS), 2023
@@ -48,31 +47,41 @@ Awards and Honors
 
 Publications (\*corresponding author)
 ------
-- **In Preparation (First or Corresponding Author)**
- 6.	Zhe Yan, Zhenhua Jiang*, Haoxiang Huang, Yinong Wu, Baoyu Yang, Zhenhai Pan*, On coalescence of bubble in branching microchannel with phase change, International Journal of Heat and Mass Transfer, 2024, 224, 125320.
-    2.	Haoxiang Huang, Zhenhai Pan, Zhe Yan\*, Yulu Liu\*. Bubble dynamics and phase change heat transfer in a microchannel with a heated cylinder. (Submitted to International Journal of Heat and Mass Transfer)
-    4.	Study on the bubble rising and passing through the confined hole in the stagnant fluid (In preparation for Physics of Fluids)
-    5.	Bubble rising dynamics in the stagnant fluid with different configurations of confined hole (In preparation for International Journal of Multiphase Flow)
+- **Accepted or In Preparation - Journal Papers (As First/Corresponding Author)**
+    1.	Numerical Study on Bubble Merger in a Heated Symmetric Microfluidic T-junction，Thermal science, (Accepted)
+    2.	Thermal performance of a long-distance helium two-phase closed thermosyphon, cryogenics,（Minor revision）
+    3.	Bubble coalescence dynamics and associated phase change heat transfer within Y-junction microchannel. (Under review)
+    4.	Experimental investigation on the operation characteristics of long-distance two-phase thermosyphon loop with dual minichannel evaporators. (Under review)
+    5.	Study on the bubble rising and passing through the confined hole in the stagnant fluid (In Preparation)
+    6.	Bubble rising dynamics in the stagnant fluid with different configurations of confined hole (In preparation)
+    7.	Manipulating the microchannel flow boiling with the combination between artificial nucleation site and pin fin (In Preparation)
+    8.	Numerical study on the boiling flow and heat transfer performance for minichannel evaporator (In Preparation)
 
-- **Published Journal Articles**
-    1.	Yang Liu, Zhe Yan\*, Zhenhua Jiang, Nanxi Li, Baoyu Yang, Yinong Wu\*. Experimental study on the small two-phase thermosyphon loop with minichannel evaporator, ASME-Journal of Thermal Science and Engineering Applications, online.
-    2.	Zhe Yan, Haoxiang Huang, Zhenhai Pan\*. Bubble breakup and boiling heat transfer in Y-shaped bifurcating microchannels, AIChE Journal, 2023, 69(2), e17836.
-    3.	Zhe Yan, Haoxiang Huang, Shanshan Li, Wei Wang, Zhenhai Pan\*. Three-dimensional numerical investigation on flow boiling in T-junction microchannel. Chemical Engineering Science, 2022, 250, 117375.
-    4.	Ji Zhang, Han Yuan, Ning Mei\*, Zhe Yan. Estimation of solid concentration in solid–liquid two-phase flow in horizontal pipeline using inverse problem approach. Particuology, 2022, 62: 1-13.
-    5.	Jingbo Chen, Wen Du, Bo Kong, Zhiguo Wang, Jun Cao, Weiran Wang, Zhe Yan\*. Numerical investigation on the symmetric breakup of bubble within a heated microfluidic Y-junction. Symmetry, 2022, 14(8), 1661.
-    6.	Lichun Li, Zhe Yan, Zhenhai Pan\*. Vortex-induced rotations of two side-by-side square cylinders in a two-dimensional microchannel. Physics of Fluids, 2021, 33, 117104.
-    7.	Zhe Yan, Haoxiang Huang, Wentao Pan, Bili Deng, Zhenhai Pan\*. Influences of wall superheat and channel width ratio on bubble behaviors and heat transfer within a heated microchannel T-junction. International Communications in Heat and Mass Transfer, 2021, 126, 105481.
-    8.	Zhe Yan, Lichun Li, Zhenhai Pan\*. Breakup regime and heat transfer of a vapor bubble within T-shaped branching microchannel, International Journal of Heat and Mass Transfer, 2021, 175, 121344.
-    9.	Zhe Yan, Zhenhai Pan\*. Dynamics and phase change heat transfer of an isolated vapor bubble traveling through a heated T-shaped branching microchannel, International Journal of Heat and Mass Transfer, 2020, 160, 120186. (Selected as Key scientific article contributing to research excellence by Advances In Engineering)
-    10.	Ji Zhang, Liang Cheng, Han Yuan, Ning Mei\*, Zhe Yan. Identification of viscosity and solid fraction in slurry pipeline transportation based on the inverse heat transfer theory. Applied Thermal Engineering, 2019, 163: 114328.
-    11.	Ji Zhang, Han Yuan, Liang Cheng, Ning Mei\*, Zhe Yan. Inverse identification of viscosity coefficient for Newtonian and non-Newtonian slurries during the turbulent pipeline transportation. Asia-Pacific Journal of Chemical Engineering, 2019, e2368: 1-12.
-    12.	Yongbin Wu, Yan Li\*, Zhe Yan, Ji Zhang. Experimental study on seawater desalination by rising film evaporation, Periodical of Ocean University of China, 2019, 49(7), 102-109. (In Chinese)
-    13.	Zhe Yan, Yan Li\*. A comprehensive study of dynamic and heat transfer characteristics of droplet impact on micro-scale rectangular grooved surface. Energies, 2018, 11, 1390.
-    14.	Zhe Yan, Yan Li\*, Han Yuan, Ning Mei. Numerical study of droplet impact on micro-scale rectangular-groove surface. Journal of Engineering Thermophysics, 2018, 39(7), 1542-1548. (In Chinese)
-    15.	Zhe Yan, Yan Li\*. Numerical study on the impact of hollow droplet on liquid film. Journal of Chemical Engineering of Chinese Universities, 2018, 32(3), 529-536. (In Chinese)
-    16.	Zhe Yan, Yan Li\*, Chuan Li, Weihong Zhang, Han Yuan, Ning Mei. Numerical simulation study of droplet impact on various solid surface. Journal of Thermal Science and Technology, 2018, 17(1), 8-14. (In Chinese)
-    17.	Zhe Yan, Yan Li\*. Unsteady numerical simulation of refrigerated container. Building Energy & Environment, 2018, 37(7), 50-54. (In Chinese)
-    18.	Yan Li\*, Zhe Yan, Chao Yang, Bin Guo, Han Yuan, Jian Zhao, Ning Mei. Study of a coil heat exchanger with an ice storage system. Energies, 2017, 10, 1982.
+- **Published Journal papers**
+    
+    1.	Haoxiang Huang, Jialing Yu, Zhe Yan\*, Zhenhai Pan\*. On interaction between a bubble with evaporation and heated pillar block in microchannel, Physics of Fluids, 2024, 36(3), 032017. 
+    2.	Zhe Yan, Zhenhua Jiang\*, Haoxiang Huang, Yinong Wu, Baoyu Yang, Zhenhai Pan\*, On coalescence of bubble in branching microchannel with phase change, International Journal of Heat and Mass Transfer, 2024, 224, 125320.
+    3.	Haoxiang Huang, Zhe Yan\*, Zhenhai Pan. Cooling high heat flux with flow boiling in 2D-structured radial microchannel heat sink. Journal of Micromechanics and Microengineering, 2024, 34, 105010. 
+    4.	Haoxiang Huang\#, Jiazheng Liu\#, Jialing Yu, Wentao Pan\*, Zhe Yan\*, Zhenhai Pan. Behind the Non-Uniform Breakup of Bubble Slug in Y-Shaped Microchannel: Dynamics and Mechanisms. Micromachines, 2024, 15(6): 695.
+    5.	Jiaqi Tang, Zhe Yan, Xiaotong Wang, Yi Liu, Haoxiang Wei, Dongyan Xu\*. Significantly reduced pressure drop for flow boiling in finned microchannels through lowering the pin fin to channel height ratio. International Journal of Thermal Sciences, 2024, 204: 109227.   
+    6.	Yang Liu, Zhe Yan\*, Zhenhua Jiang, Nanxi Li, Baoyu Yang, Yinong Wu\*. Experimental study on the small two-phase thermosyphon loop with minichannel evaporator. ASME-Journal of Thermal Science and Engineering Applications, 2024, 16, 021006.
+    7.	Zhe Yan, Haoxiang Huang, Zhenhai Pan\*. Bubble breakup and boiling heat transfer in Y-shaped bifurcating microchannels, AIChE Journal, 2023, 69(2), e17836.
+    8.	Zhe Yan, Haoxiang Huang, Shanshan Li, Wei Wang, Zhenhai Pan\*. Three-dimensional numerical investigation on flow boiling in T-junction microchannel. Chemical Engineering Science, 2022, 250, 117375.
+    9.	Ji Zhang, Han Yuan, Ning Mei\*, Zhe Yan. Estimation of solid concentration in solid–liquid two-phase flow in horizontal pipeline using inverse problem approach. Particuology, 2022, 62: 1-13.
+    10.	Jingbo Chen, Wen Du, Bo Kong, Zhiguo Wang, Jun Cao, Weiran Wang, Zhe Yan\*. Numerical investigation on the symmetric breakup of bubble within a heated microfluidic Y-junction. Symmetry, 2022, 14(8), 1661.
+    11.	Lichun Li, Zhe Yan, Zhenhai Pan\*. Vortex-induced rotations of two side-by-side square cylinders in a two-dimensional microchannel. Physics of Fluids, 2021, 33, 117104.
+    12.	Zhe Yan, Haoxiang Huang, Wentao Pan, Bili Deng, Zhenhai Pan\*. Influences of wall superheat and channel width ratio on bubble behaviors and heat transfer within a heated microchannel T-junction. International Communications in Heat and Mass Transfer, 2021, 126, 105481.
+    13.	Zhe Yan, Lichun Li, Zhenhai Pan\*. Breakup regime and heat transfer of a vapor bubble within T-shaped branching microchannel, International Journal of Heat and Mass Transfer, 2021, 175, 121344.
+    14.	Zhe Yan, Zhenhai Pan\*. Dynamics and phase change heat transfer of an isolated vapor bubble traveling through a heated T-shaped branching microchannel, International Journal of Heat and Mass Transfer, 2020, 160, 120186. (Selected as Key scientific article contributing to research excellence by Advances In Engineering)
+    15.	Ji Zhang, Liang Cheng, Han Yuan, Ning Mei\*, Zhe Yan. Identification of viscosity and solid fraction in slurry pipeline transportation based on the inverse heat transfer theory. Applied Thermal Engineering, 2019, 163: 114328.
+    16.	Ji Zhang, Han Yuan, Liang Cheng, Ning Mei\*, Zhe Yan. Inverse identification of viscosity coefficient for Newtonian and non-Newtonian slurries during the turbulent pipeline transportation. Asia-Pacific Journal of Chemical Engineering, 2019, e2368: 1-12.
+    17.	Yongbin Wu, Yan Li\*, Zhe Yan, Ji Zhang. Experimental study on seawater desalination by rising film evaporation, Periodical of Ocean University of China, 2019, 49(7), 102-109. (In Chinese)
+    18.	Zhe Yan, Yan Li\*. A comprehensive study of dynamic and heat transfer characteristics of droplet impact on micro-scale rectangular grooved surface. Energies, 2018, 11, 1390.
+    19.	Zhe Yan, Yan Li\*, Han Yuan, Ning Mei. Numerical study of droplet impact on micro-scale rectangular-groove surface. Journal of Engineering Thermophysics, 2018, 39(7), 1542-1548. (In Chinese)
+    20.	Zhe Yan, Yan Li\*. Numerical study on the impact of hollow droplet on liquid film. Journal of Chemical Engineering of Chinese Universities, 2018, 32(3), 529-536. (In Chinese)
+    21.	Zhe Yan, Yan Li\*, Chuan Li, Weihong Zhang, Han Yuan, Ning Mei. Numerical simulation study of droplet impact on various solid surface. Journal of Thermal Science and Technology, 2018, 17(1), 8-14. (In Chinese)
+    22.	Zhe Yan, Yan Li\*. Unsteady numerical simulation of refrigerated container. Building Energy & Environment, 2018, 37(7), 50-54. (In Chinese)
+    23.	Yan Li\*, Zhe Yan, Chao Yang, Bin Guo, Han Yuan, Jian Zhao, Ning Mei. Study of a coil heat exchanger with an ice storage system. Energies, 2017, 10, 1982.
 
 - **Published Conference Proceedings**
     1.	Zhe Yan, Nanxi Li, Bingyao Lin, Yang Liu, Zhenhua Jiang*, Baoyu Yang, Yinong Wu*. Study on the boiling heat transfer characteristics for the pump driving minichannel evaporator. Proceedings of the first meeting for Space Science Experiments, Chinese Society of Astronautics, 2023, Beijing. (In Chinese)
