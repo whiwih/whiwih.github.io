@@ -50,7 +50,6 @@ Publications (\*corresponding author)
 - **In Preparation (First or Corresponding Author)**
     1.	Zhe Yan, Zhenhua Jiang\*, Yinong Wu, Baoyu Yang, Zhenhai Pan\*. On coalescence of bubble in branching microchannel with phase change. (Submitted to Journal of Fluid Mechanics)
     2.	Haoxiang Huang, Zhenhai Pan, Zhe Yan\*, Yulu Liu\*. Bubble dynamics and phase change heat transfer in a microchannel with a heated cylinder. (Submitted to International Journal of Heat and Mass Transfer)
-    3.	Numerical study on the boiling flow and heat transfer performance for the minichannel evaporator (In preparation for Applied Thermal Engineering)
     4.	Study on the bubble rising and passing through the confined hole in the stagnant fluid (In preparation for Physics of Fluids)
     5.	Bubble rising dynamics in the stagnant fluid with different configurations of confined hole (In preparation for International Journal of Multiphase Flow)
 
