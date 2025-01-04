@@ -17,8 +17,7 @@ Research interests
 - Bubble dynamics and boiling heat transfer in microchannels
 - High-efficiency cooling technique for electronic devices
 - Design of microfluidic system
-- Droplet impact dynamics
-- Two-phase loop thermosyphon and its applications	
+
 
 
 Eduation
