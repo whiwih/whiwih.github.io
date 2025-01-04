@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hey, there! My name is Yan Zhe.I am an assistant professor in the [Shanghai Institute of Technical Physics, Chinese Academy of Sciences](http://www.sitp.ac.cn/). I am also the Hong Kong Scholar in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). I received my Ph.D. from the [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
+Hey, there! My name is Yan Zhe. I am an assistant professor in the [Shanghai Institute of Technical Physics, Chinese Academy of Sciences](http://www.sitp.ac.cn/). I am also the Hong Kong Scholar in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). I received my Ph.D. from the [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
 
 
 Research interests
@@ -20,7 +20,6 @@ Research interests
 - Fundamental transport process and engineering applications of thermosyphons
 - Droplet impact dynamics on structured surface
 - Advanced additive manufacturing and their application in heat transfer enhancement
-
 
 
 Eduation
@@ -50,7 +49,7 @@ Awards and Honors
 Publications (\*corresponding author)
 ------
 - **In Preparation (First or Corresponding Author)**
-    1.	Zhe Yan, Zhenhua Jiang\*, Yinong Wu, Baoyu Yang, Zhenhai Pan\*. On coalescence of bubble in branching microchannel with phase change. (Submitted to Journal of Fluid Mechanics)
+ 6.	Zhe Yan, Zhenhua Jiang*, Haoxiang Huang, Yinong Wu, Baoyu Yang, Zhenhai Pan*, On coalescence of bubble in branching microchannel with phase change, International Journal of Heat and Mass Transfer, 2024, 224, 125320.
     2.	Haoxiang Huang, Zhenhai Pan, Zhe Yan\*, Yulu Liu\*. Bubble dynamics and phase change heat transfer in a microchannel with a heated cylinder. (Submitted to International Journal of Heat and Mass Transfer)
     4.	Study on the bubble rising and passing through the confined hole in the stagnant fluid (In preparation for Physics of Fluids)
     5.	Bubble rising dynamics in the stagnant fluid with different configurations of confined hole (In preparation for International Journal of Multiphase Flow)
