@@ -30,8 +30,8 @@ Employment
 ------
 - Hong Kong Scholar, The Chinese University of Hong Kong, Dec., 2023 - present
 - Assistant Professor, Shanghai Institute of Technical Physics Chinese Academy of Sciences., Oct., 2022 - Dec.,2023
-- part-time job：Senior R&D Engineer of Microfluidics and Thermal Management, Nantong Huixian Chip Development Technology Co., Ltd., Nov., 2019 - Aug., 2022
-- part-time job：Deputy director of testing department, Qingdao Energy Conservation Technology Center of Ocean University Co., Ltd., May, 2015 - May, 2018
+- Part-time job：Senior R&D Engineer of Microfluidics and Thermal Management, Nantong Huixian Chip Development Technology Co., Ltd., Nov., 2019 - Aug., 2022
+- Part-time job：Deputy director of testing department, Qingdao Energy Conservation Technology Center of Ocean University Co., Ltd., May, 2015 - May, 2018
 
 Academic Services
 ------
