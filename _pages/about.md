@@ -43,11 +43,15 @@ Academic Services
 
 Awards and Honors
 ------
-- Hong Kong Scholar Award (The first one in the SITP, CAS), 2023
-- AIE - Key Scientific Article Contributing to Research Excellence, 2023
-- The Innovation and Promotion Award of CIUR, 2020
-- Excellent Master's Degree Thesis in Shandong Province, 2019
-- Outstanding Graduates in Shandong Province, 2018
+-	Hong Kong Scholar（with an annual cohort of 60 researchers nationwide）
+-	Best Oral Presentation in Hong Kong Scholars Annual Symposium 2025
+-	Advisor of ASME K-16/IEEE EPS Student Design Competition Finalist
+-	AIE Award - Key Scientific Article Contributing to Research Excellence
+-	The Innovation and Promotion Award of CIUR
+-	Excellent Master's Degree Thesis in Shandong Province 
+-	Outstanding Graduates in Shandong Province 
+-	Expert in photography and win more than 30 awards in various contests
+
 
 
 Publications (\*corresponding author)
