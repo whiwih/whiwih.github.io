@@ -44,15 +44,11 @@ Awards and Honors
 
 Publications (\*corresponding author)
 ------
-- **Accepted or In Preparation - Journal Papers (As First/Corresponding Author)**
-    1.	Numerical Study on Bubble Merger in a Heated Symmetric Microfluidic T-junction，Thermal science, (Accepted)
-    2.	Thermal performance of a long-distance helium two-phase closed thermosyphon, cryogenics,（Minor revision）
-    3.	Bubble coalescence dynamics and associated phase change heat transfer within Y-junction microchannel. (Under review)
-    4.	Experimental investigation on the operation characteristics of long-distance two-phase thermosyphon loop with dual minichannel evaporators. (Under review)
-    5.	Study on the bubble rising and passing through the confined hole in the stagnant fluid (In Preparation)
-    6.	Bubble rising dynamics in the stagnant fluid with different configurations of confined hole (In preparation)
-    7.	Manipulating the microchannel flow boiling with the combination between artificial nucleation site and pin fin (In Preparation)
-    8.	Numerical study on the boiling flow and heat transfer performance for minichannel evaporator (In Preparation)
+- **Under Review or In Preparation - Journal Papers (As First/Corresponding Author)**
+1.	Manipulating the microchannel flow boiling with the combination between artificial nucleation site and pin fin. 
+2.	Numerical study on the boiling flow and heat transfer performance for minichannel evaporator.
+3.	Thermal performance of two-phase loop thermosiphon under different filling ratios and heat transfer distances. 
+
 
 - **Published/Accepted Journal papers**
     
