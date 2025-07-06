@@ -26,12 +26,12 @@ Eduation
 - M.E. in Engineering Thermophysics, Ocean University of China, Sept., 2015 - Jun., 2018
 - B.E. in Marine Engineering, Dalian Maritime University, Sept., 2011 - Jul., 2015
 
-Employment History
+Employment
 ------
 - Hong Kong Scholar, The Chinese University of Hong Kong, Dec., 2023 - present
 - Assistant Professor, Shanghai Institute of Technical Physics Chinese Academy of Sciences., Oct., 2022 - Dec.,2023
-- Senior R&D Engineer of Microfluidics and Thermal Management, Nantong Huixian Chip Development Technology Co., Ltd., Nov., 2019 - Sept., 2022
-- Deputy director of testing department, Qingdao Energy Conservation Technology Center of Ocean University Co., Ltd., Nov., 2015 - May, 2018
+- part-time job：Senior R&D Engineer of Microfluidics and Thermal Management, Nantong Huixian Chip Development Technology Co., Ltd., Nov., 2019 - Aug., 2022
+- part-time job：Deputy director of testing department, Qingdao Energy Conservation Technology Center of Ocean University Co., Ltd., May, 2015 - May, 2018
 
 Academic Services
 ------
@@ -54,7 +54,7 @@ Awards and Honors
 
 
 
-Publications (\*corresponding author)
+Publications (\*first/corresponding author)
 ------
 - **Under Review or In Preparation - Journal Papers (As First/Corresponding Author)**
 1.	Manipulating the microchannel flow boiling with the combination between artificial nucleation site and pin fin. 
