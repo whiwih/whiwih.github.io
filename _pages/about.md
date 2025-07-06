@@ -33,7 +33,8 @@ Employment History
 - Senior R&D Engineer of Microfluidics and Thermal Management, Nantong Huixian Chip Development Technology Co., Ltd., Nov., 2019 - Sept., 2022
 - Deputy director of testing department, Qingdao Energy Conservation Technology Center of Ocean University Co., Ltd., Nov., 2015 - May, 2018
 
-**Academic Services**
+Academic Services
+------
 -	First Youth Editorial Board Member, Advances in Astronautics <Journal>
 -	First Youth Editorial Board Member, Intelligent Manufacturing <Journal, in Chinese>
 -	Committee of MEACM 2025（Singapore）& CHEMCATMEET 2025（Dubai）<Conference>
