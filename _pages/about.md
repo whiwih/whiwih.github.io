@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hey, there! My name is Yan Zhe. I am a Hong Kong Scholar in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). I received my Ph.D. from the [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
+Hey, there! My name is YAN Zhe. I am a Hong Kong Scholar in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). I received my Ph.D. from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
 
 
 Research interests
