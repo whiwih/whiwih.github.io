@@ -54,24 +54,24 @@ Publications (\*corresponding author)
     
 1.	Rongjian Li, Xiaoyu Cui, Zhenhua Jiang*, Chen Liu, Zhe Yan*. Experimental study on thermal performance of a long-distance helium two-phase closed thermosyphon. Cryogenics, 2025, 147: 104044.
 2.	Chen Liu#, Yang Liu#, Jian Sheng, Zhe Yan*, Rongjian Li, Zhenyu Chen, Zhenhua Jiang*. Experimental investigation on the operation characteristics of long-distance two-phase thermosyphon loop with dual minichannel evaporators. Experimental Heat Transfer, 2025. (Accepted)
-3.	Yilin Yang, Yang Liu, Zhe Yan*, Zhenhua Jiang. Thermal performance of two-phase loop thermosiphon under different filling ratios and heat transfer distances. Journal of Applied Fluid Mechanics, 2025. (Accepted)
-4.	Weiyu Liu, Zhenhua Jiang, Baoyu Yang, Zhe Yan*, Zhenhai Pan. Numerica study on bubble merger in a heated symmetric microfluidic T-junction. Thermal science, 2025. https://doi.org/10.2298/TSCI241004014L (Online)
-5.	Haoxiang Huang, Jialing Yu, Zhe Yan*, Zhenhai Pan*. On interaction between a bubble with evaporation and heated pillar block in microchannel. Physics of Fluids, 2024, 36(3), 032017. 
-6.	Zhe Yan, Zhenhua Jiang*, Haoxiang Huang, Yinong Wu, Baoyu Yang, Zhenhai Pan*, On coalescence of bubble in branching microchannel with phase change. International Journal of Heat and Mass Transfer, 2024, 224, 125320.
-7.	Haoxiang Huang, Zhe Yan*, Zhenhai Pan. Cooling high heat flux with flow boiling in 2D-structured radial microchannel heat sink. Journal of Micromechanics and Microengineering, 2024, 34, 105010. 
-8.	Haoxiang Huang#, Jiazheng Liu#, Jialing Yu, Wentao Pan*, Zhe Yan*, Zhenhai Pan. Behind the Non-Uniform Breakup of Bubble Slug in Y-Shaped Microchannel: Dynamics and Mechanisms. Micromachines, 2024, 15(6): 695.
-9.	Yang Liu, Zhe Yan*, Zhenhua Jiang, Nanxi Li, Baoyu Yang, Yinong Wu*. Experimental study on the small two-phase thermosyphon loop with minichannel evaporator. ASME-Journal of Thermal Science and Engineering Applications, 2024, 16, 021006.
-10.	Zhe Yan, Haoxiang Huang, Zhenhai Pan*. Bubble breakup and boiling heat transfer in Y-shaped bifurcating microchannels. AIChE Journal, 2023, 69(2), e17836.
-11.	Zhe Yan, Haoxiang Huang, Shanshan Li, Wei Wang, Zhenhai Pan*. Three-dimensional numerical investigation on flow boiling in T-junction microchannel. Chemical Engineering Science, 2022, 250, 117375.
-12.	Jingbo Chen, Wen Du, Bo Kong, Zhiguo Wang, Jun Cao, Weiran Wang, Zhe Yan*. Numerical investigation on the symmetric breakup of bubble within a heated microfluidic Y-junction. Symmetry, 2022, 14(8), 1661.
-13.	Zhe Yan, Haoxiang Huang, Wentao Pan, Bili Deng, Zhenhai Pan*. Influences of wall superheat and channel width ratio on bubble behaviors and heat transfer within a heated microchannel T-junction. International Communications in Heat and Mass Transfer, 2021, 126, 105481. 
-14.	Zhe Yan, Lichun Li, Zhenhai Pan*. Breakup regime and heat transfer of a vapor bubble within T-shaped branching microchannel. International Journal of Heat and Mass Transfer, 2021, 175, 121344.
-15.	Zhe Yan, Zhenhai Pan*. Dynamics and phase change heat transfer of an isolated vapor bubble traveling through a heated T-shaped branching microchannel. International Journal of Heat and Mass Transfer, 2020, 160, 120186. (Selected as Key scientific article contributing to research excellence by Advances In Engineering)
-16.	Zhe Yan, Yan Li*. A comprehensive study of dynamic and heat transfer characteristics of droplet impact on micro-scale rectangular grooved surface. Energies, 2018, 11, 1390. 
-17.	Zhe Yan, Yan Li*, Han Yuan, Ning Mei. Numerical study of droplet impact on micro-scale rectangular-groove surface. Journal of Engineering Thermophysics, 2018, 39(7), 1542-1548. (In Chinese)
-18.	Zhe Yan, Yan Li*. Numerical study on the impact of hollow droplet on liquid film. Journal of Chemical Engineering of Chinese Universities, 2018, 32(3), 529-536. (In Chinese)
-19.	Zhe Yan, Yan Li*, Chuan Li, Weihong Zhang, Han Yuan, Ning Mei. Numerical simulation study of droplet impact on various solid surface. Journal of Thermal Science and Technology, 2018, 17(1), 8-14. (In Chinese)
-20.	Zhe Yan, Yan Li*. Unsteady numerical simulation of refrigerated container. Building Energy & Environment, 2018, 37(7), 50-54. (In Chinese)
+3.	Weiyu Liu, Zhenhua Jiang, Baoyu Yang, Zhe Yan*, Zhenhai Pan. Numerica study on bubble merger in a heated symmetric microfluidic T-junction. Thermal science, 2025. https://doi.org/10.2298/TSCI241004014L (Online)
+4.	Haoxiang Huang, Jialing Yu, Zhe Yan*, Zhenhai Pan*. On interaction between a bubble with evaporation and heated pillar block in microchannel. Physics of Fluids, 2024, 36(3), 032017.
+5.	Zhe Yan, Zhenhua Jiang*, Haoxiang Huang, Yinong Wu, Baoyu Yang, Zhenhai Pan*, On coalescence of bubble in branching microchannel with phase change. International Journal of Heat and Mass Transfer, 2024, 224, 125320.
+6.	Haoxiang Huang, Zhe Yan*, Zhenhai Pan. Cooling high heat flux with flow boiling in 2D-structured radial microchannel heat sink. Journal of Micromechanics and Microengineering, 2024, 34, 105010.
+7.	Haoxiang Huang#, Jiazheng Liu#, Jialing Yu, Wentao Pan*, Zhe Yan*, Zhenhai Pan. Behind the Non-Uniform Breakup of Bubble Slug in Y-Shaped Microchannel: Dynamics and Mechanisms. Micromachines, 2024, 15(6): 695.
+8.	Yang Liu, Zhe Yan*, Zhenhua Jiang, Nanxi Li, Baoyu Yang, Yinong Wu*. Experimental study on the small two-phase thermosyphon loop with minichannel evaporator. ASME-Journal of Thermal Science and Engineering Applications, 2024, 16, 021006.
+9.	Zhe Yan, Haoxiang Huang, Zhenhai Pan*. Bubble breakup and boiling heat transfer in Y-shaped bifurcating microchannels. AIChE Journal, 2023, 69(2), e17836.
+10.	Zhe Yan, Haoxiang Huang, Shanshan Li, Wei Wang, Zhenhai Pan*. Three-dimensional numerical investigation on flow boiling in T-junction microchannel. Chemical Engineering Science, 2022, 250, 117375.
+11.	Jingbo Chen, Wen Du, Bo Kong, Zhiguo Wang, Jun Cao, Weiran Wang, Zhe Yan*. Numerical investigation on the symmetric breakup of bubble within a heated microfluidic Y-junction. Symmetry, 2022, 14(8), 1661.
+12.	Zhe Yan, Haoxiang Huang, Wentao Pan, Bili Deng, Zhenhai Pan*. Influences of wall superheat and channel width ratio on bubble behaviors and heat transfer within a heated microchannel T-junction. International Communications in Heat and Mass Transfer, 2021, 126, 105481.
+13.	Zhe Yan, Lichun Li, Zhenhai Pan*. Breakup regime and heat transfer of a vapor bubble within T-shaped branching microchannel. International Journal of Heat and Mass Transfer, 2021, 175, 121344.
+14.	Zhe Yan, Zhenhai Pan*. Dynamics and phase change heat transfer of an isolated vapor bubble traveling through a heated T-shaped branching microchannel. International Journal of Heat and Mass Transfer, 2020, 160, 120186. (Selected as Key scientific article contributing to research excellence by Advances In Engineering)
+15.	Zhe Yan, Yan Li*. A comprehensive study of dynamic and heat transfer characteristics of droplet impact on micro-scale rectangular grooved surface. Energies, 2018, 11, 1390.
+16.	Zhe Yan, Yan Li*, Han Yuan, Ning Mei. Numerical study of droplet impact on micro-scale rectangular-groove surface. Journal of Engineering Thermophysics, 2018, 39(7), 1542-1548. (In Chinese)
+17.	Zhe Yan, Yan Li*. Numerical study on the impact of hollow droplet on liquid film. Journal of Chemical Engineering of Chinese Universities, 2018, 32(3), 529-536. (In Chinese)
+18.	Zhe Yan, Yan Li*, Chuan Li, Weihong Zhang, Han Yuan, Ning Mei. Numerical simulation study of droplet impact on various solid surface. Journal of Thermal Science and Technology, 2018, 17(1), 8-14. (In Chinese)
+19.	Zhe Yan, Yan Li*. Unsteady numerical simulation of refrigerated container. Building Energy & Environment, 2018, 37(7), 50-54. (In Chinese)
+
 
 - **Published Conference Proceedings**
 1.	Zhe Yan, Nanxi Li, Bingyao Lin, Yang Liu, Zhenhua Jiang*, Baoyu Yang, Yinong Wu*. Study on the boiling heat transfer characteristics for the pump driving minichannel evaporator. Proceedings of the first meeting for Space Science Experiments, Chinese Society of Astronautics, 2023, Beijing. (In Chinese)
