@@ -59,7 +59,8 @@ Publications (\*first/corresponding author)
 - **Under Review or In Preparation - Journal Papers (As First/Corresponding Author)**
 1.	Manipulating the microchannel flow boiling with the combination between artificial nucleation site and pin fin. 
 2.	Numerical study on the boiling flow and heat transfer performance for minichannel evaporator.
-3.	Thermal performance of two-phase loop thermosiphon under different filling ratios and heat transfer distances. 
+3.	Thermal performance of two-phase loop thermosiphon under different filling ratios and heat transfer distances.
+4.	Bubble dynamics during the processes of rising and passing through confined hole
 
 
 - **Published/Accepted Journal papers**
@@ -94,7 +95,7 @@ Publications (\*first/corresponding author)
 6.	Zhe Yan, Yan Li*, Han Yuan, Ning Mei. Simualtion on the droplet impact on solid surface with micro-scale rectangular grooves. Proceedings of the 2017 Chinese Society of Engineering Thermophysics Meeting, 2017, Suzhou. (In Chinese)
 7.	Zhe Yan, Jian Zhao, Chuan Li, Weihong Zhang, Yan Li*, Ning Mei. Numerical simulation research of the droplet impact on different solid surface, Proceedings of the 23th Meeting for Engineering Thermophysics of Colleges and Universities, 2017, Chengdu. (In Chinese)
 
-- **Authorized China patents**
+- **Authorized CN patents**
 1.	A new type of separated heat dissipation device. Application number: 202220281036.1
 2.	An intelligent phase-change cooling device and its cooling method. Application number: 202011374788.4
 3.	A new type of phase-change cooling system based on the rib columns and its cooling method. Application number: 202010820603.1
